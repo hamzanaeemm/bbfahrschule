@@ -1,0 +1,8 @@
+# BBFahrschule — robots.txt
+# [PLACEHOLDER] Domain in der Sitemap-Zeile vor dem Livegang anpassen.
+
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://www.bbfahrschule.de/sitemap.xml
