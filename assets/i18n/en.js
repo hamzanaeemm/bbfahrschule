@@ -30,12 +30,12 @@ window.BBi18n.register('en', {
 
   home: {
     metaTitle: 'Get your driving licence',
-    metaDesc: 'B&B Fahrschule — a modern driving school with experienced instructors. Categories B, B197, B78, BF17 and more. Calculate your cost and enrol today.',
+    metaDesc: 'B&B Fahrschule: a modern driving school with experienced instructors. Categories B, B197, B78, BF17 and more. Calculate your cost and enrol today.',
     heroEyebrow: 'Driving school in {city}',
     heroTitle: 'Get your licence <em>now</em>.',
-    heroLead: 'Personal support, modern vehicles and flexible scheduling. With us you learn to drive without the stress — from your first theory evening to passing the test.',
+    heroLead: 'Personal support, modern vehicles and flexible scheduling. With us you learn to drive without the stress, from your first theory evening to passing the test.',
     trust: { students:'Learners', pass:'Pass rate', years:'Years of experience', rating:'Rating' },
-    heroPlate: 'Training in a VW T-Roc — automatic & manual',
+    heroPlate: 'Training in a VW T-Roc: automatic & manual',
 
     barItems: ['Free first consultation', 'Learn theory online too',
                'Pick-up at your preferred location', 'Tuition in four languages'],
@@ -44,39 +44,39 @@ window.BBi18n.register('en', {
     uspTitle: 'A driving school that fits around you',
     uspLead: 'We know that school, training or work leave little room. That is why everything here is built so you reach your licence quickly and without stress.',
     usp: [
-      { t:'Experienced instructors', d:'Calm, patient and with years of practice. You get your own instructor — no constant changes.' },
+      { t:'Experienced instructors', d:'Calm, patient and with years of practice. You get your own instructor. No constant changes.' },
       { t:'Modern vehicles', d:'Well-maintained, safe training cars with up-to-date driver assistance. Automatic and manual are both available.' },
       { t:'Flexible appointments', d:'Lessons in the morning, in the evening or on Saturdays. Pick-up at school, university or your workplace is usually possible.' },
-      { t:'Learn theory online', d:'With our app and online access you learn whenever and wherever you like — on the bus, during a break or on the sofa.' },
-      { t:'Fair, clear prices', d:'No hidden costs. You see in advance what to expect — our calculator even estimates it down to the euro.' },
-      { t:'Tuition in four languages', d:'German, English, Turkish and Arabic. Just talk to us — we will always find a way to support you.' }
+      { t:'Learn theory online', d:'With our app and online access you learn whenever and wherever you like, on the bus, during a break or on the sofa.' },
+      { t:'Fair, clear prices', d:'No hidden costs. You see in advance what to expect. Our calculator even estimates it down to the euro.' },
+      { t:'Tuition in four languages', d:'German, English, Turkish and Arabic. Just talk to us. We will always find a way to support you.' }
     ],
 
     classesEyebrow: 'Licence categories',
     classesTitle: 'Which licence do you need?',
-    classesLead: 'Car or trailer, automatic or manual — we train for every common car category and advise you on which one really suits you.',
+    classesLead: 'Car or trailer, automatic or manual. We train for every common car category and advise you on which one really suits you.',
 
     stepsEyebrow: 'How it works',
     stepsTitle: 'Five steps to your licence',
-    stepsLead: 'From enrolment to the licence in your hand — you never have to figure anything out alone. We tell you exactly what to do at every step.',
+    stepsLead: 'From enrolment to the licence in your hand. You never have to figure anything out alone. We tell you exactly what to do at every step.',
     steps: [
-      { t:'Enrol', d:'A free consultation, sign the training contract — that is all you need to get started.' },
+      { t:'Enrol', d:'A free consultation, sign the training contract. That is all you need to get started.' },
       { t:'Gather documents', d:'Eye test, first-aid course and a passport photo. We submit the application to the authority together with you.' },
       { t:'Learn the theory', d:'Lessons here on site plus the app for on the go. Then the theory exam at TÜV or DEKRA.' },
       { t:'Practise driving', d:'First the basics, then city traffic, and finally the twelve mandatory special drives.' },
-      { t:'Pass the test', d:'About 45 minutes with the examiner — and the licence is yours.' }
+      { t:'Pass the test', d:'About 45 minutes with the examiner, and the licence is yours.' }
     ],
 
     calcEyebrow: 'Cost calculator',
     calcTitle: 'What will your licence cost?',
-    calcLead: 'The price depends above all on how many driving lessons you need. Our calculator gives you a realistic estimate in 30 seconds — no sign-up required.',
+    calcLead: 'The price depends above all on how many driving lessons you need. Our calculator gives you a realistic estimate in 30 seconds, no sign-up required.',
     calcBullets: ['Split into driving-school and third-party costs',
                   'All legally required lessons already included',
                   'Instantly visible, no email needed'],
 
     fleetEyebrow: 'Our vehicles',
     fleetTitle: 'Learning in a VW T-Roc',
-    fleetLead: 'Our training car is easy to see out of, safe and pleasant to drive — ideal for your first lessons and strong enough for motorway and country roads.',
+    fleetLead: 'Our training car is easy to see out of, safe and pleasant to drive, ideal for your first lessons and strong enough for motorway and country roads.',
     fleetList: ['Reversing camera and parking sensors', 'Distance and lane-keeping assist',
                 'Climate control and height-adjustable seats', 'Automatic and manual versions available',
                 'Serviced regularly and fully insured'],
@@ -84,7 +84,7 @@ window.BBi18n.register('en', {
     reviewsEyebrow: 'Reviews',
     reviewsTitle: 'What our learners say',
     reviews: [
-      { n:'Lena M.', r:'Category B · Passed', q:'I was genuinely nervous about driving. My instructor took that fear away completely — passed on the first attempt. Thank you!' },
+      { n:'Lena M.', r:'Category B · Passed', q:'I was genuinely nervous about driving. My instructor took that fear away completely. Passed on the first attempt. Thank you!' },
       { n:'Yusuf K.', r:'Category B197 · Passed', q:'The scheduling was really flexible, I could fit lessons around work. Everything was explained calmly, in Turkish too.' },
       { n:'Sarah B.', r:'Category B78 · Passed', q:'Very well organised. The theory lessons were never boring and you could tell the instructors genuinely enjoy the job.' }
     ],
@@ -95,7 +95,7 @@ window.BBi18n.register('en', {
       { q:'How long does it take to get my licence?',
         a:'Usually three to six months. How fast it goes depends on how often you attend theory lessons and how many driving lessons you take per week. With an intensive course it can be considerably quicker.' },
       { q:'How many driving lessons will I really need?',
-        a:'That is very individual. On top of the twelve legally required special drives for category B, most learners take between 20 and 35 practice lessons. Your instructor will tell you honestly when you are ready — we do not sell anyone lessons they do not need.' },
+        a:'That is very individual. On top of the twelve legally required special drives for category B, most learners take between 20 and 35 practice lessons. Your instructor will tell you honestly when you are ready. We do not sell anyone lessons they do not need.' },
       { q:'Can I enrol at 17?',
         a:'Yes. Under accompanied driving from 17 (BF17) you can start training at 16 and a half and take the test at the earliest one month before your 17th birthday. After that you drive accompanied by a registered person until you turn 18.' },
       { q:'What is the difference between B and B197?',
@@ -103,44 +103,44 @@ window.BBi18n.register('en', {
       { q:'Which documents do I need to enrol?',
         a:'A valid identity card or passport, a biometric passport photo, the eye-test certificate and proof of attendance at a first-aid course. We submit the application to the licensing authority together with you.' },
       { q:'Can I pay in instalments?',
-        a:'You never pay everything at once: the basic fee is due on enrolment and driving lessons are billed as you go. Talk to us if you need a different arrangement — we can almost always find a solution.' },
+        a:'You never pay everything at once: the basic fee is due on enrolment and driving lessons are billed as you go. Talk to us if you need a different arrangement. We can almost always find a solution.' },
       { q:'Do you teach in other languages?',
-        a:'Yes. We support our learners in German, English, Turkish and Arabic. The official theory exam can be taken in several foreign languages — talk to us and we will sort it out together.' },
+        a:'Yes. We support our learners in German, English, Turkish and Arabic. The official theory exam can be taken in several foreign languages. Talk to us and we will sort it out together.' },
       { q:'What happens if I fail the test?',
-        a:'It is not the end of the world — it happens to many people. After a failed test there is a two-week waiting period. We look together at what went wrong, practise specifically and register you again.' }
+        a:'It is not the end of the world: it happens to many people. After a failed test there is a two-week waiting period. We look together at what went wrong, practise specifically and register you again.' }
     ],
 
     ctaTitle: 'Ready for your first lesson?',
     ctaLead: 'Get in touch with no obligation. We advise you free of charge, answer every question, and you decide in your own time.',
 
-    seoIntroTitle: 'Driving school in {city} — personal, modern and fair',
-    seoIntro: 'B&B Fahrschule guides new drivers in {city} and the surrounding area on their way to a driving licence. We rely on small theory groups, dedicated instructors and a pace of training that suits you. Whether it is category B for a car, B197 with automatic transmission, B78 automatic only or adding a trailer entitlement — you get an honest assessment of how many lessons you will need and a transparent breakdown of every cost. You are welcome to drop in for a consultation with no obligation.'
+    seoIntroTitle: 'Driving school in {city}: personal, modern and fair',
+    seoIntro: 'B&B Fahrschule guides new drivers in {city} and the surrounding area on their way to a driving licence. We rely on small theory groups, dedicated instructors and a pace of training that suits you. Whether it is category B for a car, B197 with automatic transmission, B78 automatic only or adding a trailer entitlement. You get an honest assessment of how many lessons you will need and a transparent breakdown of every cost. You are welcome to drop in for a consultation with no obligation.'
   },
 
   class: {
-    B:    { short:'B',    name:'Category B — Car',
+    B:    { short:'B',    name:'Category B: Car',
             desc:'The classic car licence for vehicles up to 3.5 t maximum authorised mass with up to eight seats besides the driver.',
             drive:'Cars up to 3.5 t · trailers up to 750 kg' },
-    B197: { short:'B197', name:'Category B197 — Automatic with manual entitlement',
-            desc:'Train and take the test in an automatic car — and still receive a full licence that lets you drive manual vehicles.',
+    B197: { short:'B197', name:'Category B197: Automatic with manual entitlement',
+            desc:'Train and take the test in an automatic car, and still receive a full licence that lets you drive manual vehicles.',
             drive:'Same as category B, without code 78' },
-    B78:  { short:'B78',  name:'Category B78 — Automatic only',
+    B78:  { short:'B78',  name:'Category B78: Automatic only',
             desc:'Train and take the test in an automatic car. Code 78 is entered on your licence, which means you may only drive vehicles with automatic transmission.',
             drive:'Same as category B, automatic only (code 78)' },
     BF17: { short:'BF17', name:'Accompanied driving from 17',
             desc:'Start a year earlier: after passing the test you drive accompanied by a registered person until your 18th birthday.',
             drive:'Same as category B, accompanied' },
-    B96:  { short:'B96',  name:'Code B96 — Trailer',
-            desc:'A one-day additional qualification without an exam for combinations between 3.5 t and 4.25 t — ideal for caravans and horse trailers.',
+    B96:  { short:'B96',  name:'Code B96: Trailer',
+            desc:'A one-day additional qualification without an exam for combinations between 3.5 t and 4.25 t, ideal for caravans and horse trailers.',
             drive:'Combination up to 4.25 t maximum mass' },
-    BE:   { short:'BE',   name:'Category BE — Large trailer',
+    BE:   { short:'BE',   name:'Category BE: Large trailer',
             desc:'For heavier trailers over 750 kg up to 3.5 t. Includes a practical test but no additional theory lessons.',
             drive:'Car + trailer up to 3.5 t' }
   },
 
   classes: {
     metaTitle: 'Licence categories',
-    metaDesc: 'All licence categories at B&B Fahrschule: B, B197, B78, BF17, B96 and BE — with minimum age, mandatory lessons and requirements.',
+    metaDesc: 'All licence categories at B&B Fahrschule: B, B197, B78, BF17, B96 and BE, with minimum age, mandatory lessons and requirements.',
     title: 'Licence categories at a glance',
     lead: 'Which category suits you? Here you will find the key facts for every licence: minimum age, required special drives, the amount of theory and what you are allowed to drive.',
     minAge: 'Minimum age', years: 'years',
@@ -171,7 +171,7 @@ window.BBi18n.register('en', {
     metaTitle: 'Prices & cost calculator',
     metaDesc: 'Transparent prices at B&B Fahrschule: basic fee, driving lessons, special drives and exam fees. Calculate the individual cost of your licence now.',
     title: 'Prices & cost calculator',
-    lead: 'With us you know in advance what to expect. Below you will find our current price list — and above it a calculator that estimates a realistic total for your licence.',
+    lead: 'With us you know in advance what to expect. Below you will find our current price list, and above it a calculator that estimates a realistic total for your licence.',
     tableSchool: 'Driving school services',
     tableThird: 'Third-party costs (testing organisation, authority, doctor)',
     tableExtras: 'Additional services',
@@ -195,7 +195,7 @@ window.BBi18n.register('en', {
       ersteHilfe:'First-aid course (9 teaching units)',
       passbild:'Biometric passport photo',
       antrag:'Application fee, licensing authority',
-      b96:'Code B96 — complete package',
+      b96:'Code B96: complete package',
       simulator:'Driving simulator per unit',
       intensiv:'Surcharge for holiday or intensive course'
     }
@@ -211,7 +211,7 @@ window.BBi18n.register('en', {
     lessonsUnit: 'lessons',
     opt: {
       firstLicence: { t:'This is my first driving licence', d:'The eye test, first-aid course, passport photo and application fee then apply in addition.' },
-      schalt:       { t:'Prove manual competence (B197)', d:'Ten extra lessons in a manual car plus a test drive — after which you may also drive manual vehicles.' },
+      schalt:       { t:'Prove manual competence (B197)', d:'Ten extra lessons in a manual car plus a test drive, after which you may also drive manual vehicles.' },
       sehtest:      { t:'I still need the eye test', d:'At an optician or eye doctor, valid for two years.' },
       ersteHilfe:   { t:'I still need the first-aid course', d:'Nine teaching units, valid indefinitely.' },
       passbild:     { t:'I still need a biometric photo', d:'For the application to the licensing authority.' },
@@ -240,20 +240,20 @@ window.BBi18n.register('en', {
     pkg: { B96:'Complete package, code B96' },
     info: { age:'Minimum age {n}', theory:'{n} double theory lessons',
             special:'{n} mandatory special drives', noExam:'No practical exam' },
-    disclaimer: 'This calculation is a non-binding estimate and not an offer in the legal sense. Nobody can seriously promise in advance how many driving lessons you will actually need — it depends on your learning pace, your previous experience and local traffic conditions. Third-party costs for TÜV/DEKRA, the authority and the doctor may change at any time. The price list displayed at the driving school under § 19 of the Driving Instructors Act always takes precedence.'
+    disclaimer: 'This calculation is a non-binding estimate and not an offer in the legal sense. Nobody can seriously promise in advance how many driving lessons you will actually need: it depends on your learning pace, your previous experience and local traffic conditions. Third-party costs for TÜV/DEKRA, the authority and the doctor may change at any time. The price list displayed at the driving school under § 19 of the Driving Instructors Act always takes precedence.'
   },
 
   process: {
     metaTitle: 'How the training works',
     metaDesc: 'From enrolment to licence: how driver training at B&B Fahrschule works, step by step.',
     title: 'How you get your licence',
-    lead: 'The route to a driving licence is clearly regulated — and we walk it with you. Here you can see every step, what you need for it and roughly how long it takes.',
+    lead: 'The route to a driving licence is clearly regulated, and we walk it with you. Here you can see every step, what you need for it and roughly how long it takes.',
     stepsTitle: 'Your path in eight steps',
     duration:'Duration', youNeed:'What you need',
     steps: [
       { t:'Consultation and enrolment', d:'Come in for a free consultation. We clarify which category suits you, what the schedule looks like and what it costs. Then you fill in the training contract.', dur:'approx. 30 minutes', need:'Identity card or passport' },
       { t:'Eye test and first-aid course', d:'You take the eye test at an optician and the first-aid course with nine teaching units at an approved provider. You need both for the application.', dur:'one afternoon', need:'Eye test, first-aid certificate, photo' },
-      { t:'Application to the licensing authority', d:'We complete the application together with you and submit it to the responsible authority. Processing takes several weeks depending on the city — so start early.', dur:'4 to 8 weeks processing', need:'All documents from step 2' },
+      { t:'Application to the licensing authority', d:'We complete the application together with you and submit it to the responsible authority. Processing takes several weeks depending on the city, so start early.', dur:'4 to 8 weeks processing', need:'All documents from step 2' },
       { t:'Theory lessons', d:'Category B requires twelve double lessons of basic theory and two double lessons of category-specific material. Alongside this you study with the app and online access.', dur:'3 to 6 weeks', need:'Learning material and access details' },
       { t:'Theory exam', d:'You take the exam on a computer at TÜV or DEKRA. For category B you may have no more than ten error points. The exam can be taken in several languages.', dur:'approx. 45 minutes', need:'ID and exam authorisation' },
       { t:'Practical training', d:'Now you get behind the wheel. First basic manoeuvres on quiet roads, then city traffic. Your instructor plans the lessons so that you steadily become more confident.', dur:'individual', need:'Approved licence application' },
@@ -261,28 +261,28 @@ window.BBi18n.register('en', {
       { t:'Practical exam', d:'You drive for around 45 minutes with an examiner from TÜV or DEKRA. If all goes well you receive your licence straight afterwards or collect it shortly after.', dur:'approx. 45 to 55 minutes', need:'ID, exam authorisation, eye test' }
     ],
     tipsTitle: 'Tips that speed things up',
-    tips: ['Enrol before you turn 17 or 18 — the authority needs processing time.',
+    tips: ['Enrol before you turn 17 or 18. The authority needs processing time.',
            'Attend theory lessons in one block rather than spread over months.',
            'Study ten minutes a day with the app rather than two hours once a week.',
-           'Take at least two driving lessons a week — otherwise you lose confidence in between.',
+           'Take at least two driving lessons a week, otherwise you lose confidence in between.',
            'Save the special drives until you are confident in city traffic.'],
     ctaTitle: 'Questions about the process?',
-    ctaLead: 'We are happy to explain what comes next — by phone, on WhatsApp or in person at our office.'
+    ctaLead: 'We are happy to explain what comes next: by phone, on WhatsApp or in person at our office.'
   },
 
   about: {
     metaTitle: 'About us',
     metaDesc: 'Meet B&B Fahrschule: experienced instructors, modern vehicles and training in four languages.',
     title: 'About B&B Fahrschule',
-    lead: 'We are an owner-run driving school that takes time for its learners. No conveyor belt, no rotating instructors — just personal support from the first conversation to the day you pass.',
+    lead: 'We are an owner-run driving school that takes time for its learners. No conveyor belt, no rotating instructors, just personal support from the first conversation to the day you pass.',
     storyTitle: 'Our story',
-    storyText: 'We started with two cars and the belief that driving school can also be a relaxed experience. Since then we have guided many learners — young people on their way to their first taste of independence as well as adults catching up on a licence later in life. What has not changed: we take our time, we speak plainly, and we do not sell anyone lessons they do not need.',
+    storyText: 'We started with two cars and the belief that driving school can also be a relaxed experience. Since then we have guided many learners, young people on their way to their first taste of independence as well as adults catching up on a licence later in life. What has not changed: we take our time, we speak plainly, and we do not sell anyone lessons they do not need.',
     valuesTitle: 'What we stand for',
     values: [
-      { t:'Patience', d:'Everyone learns at a different speed. There is no irritation and no pressure here — just as many explanations as you need.' },
+      { t:'Patience', d:'Everyone learns at a different speed. There is no irritation and no pressure here, just as many explanations as you need.' },
       { t:'Honesty', d:'We tell you openly when you are ready for the test. Even when that means we earn less.' },
       { t:'Safety', d:'We do not train you for the exam but for real life afterwards. That includes hazard perception and anticipatory driving.' },
-      { t:'Openness', d:'Everyone is welcome here — regardless of background, age or language. We teach in German, English, Turkish and Arabic.' }
+      { t:'Openness', d:'Everyone is welcome here: regardless of background, age or language. We teach in German, English, Turkish and Arabic.' }
     ],
     teamTitle: 'Your team',
     teamLead: 'We are a small team and you will get to know all of us. Your instructor stays the same throughout your training.',
@@ -294,7 +294,7 @@ window.BBi18n.register('en', {
     teamNote: 'The team details are still placeholders and will be replaced with the real people before going live.',
     fleetTitle: 'Our vehicles',
     ctaTitle: 'Come and meet us',
-    ctaLead: 'The best way to judge a driving school is to visit. Drop by during office hours — no appointment needed.'
+    ctaLead: 'The best way to judge a driving school is to visit. Drop by during office hours. No appointment needed.'
   },
 
   contact: {
@@ -305,7 +305,7 @@ window.BBi18n.register('en', {
     addressTitle:'Address', phoneTitle:'Phone', mobileTitle:'Mobile & WhatsApp', mailTitle:'Email',
     hoursTitle:'Opening hours', theoryTitle:'Theory lessons', directions:'Get directions',
     formTitle:'Write to us',
-    formLead:'Just fill in the form — we usually get back to you within one working day.',
+    formLead:'Just fill in the form. We usually get back to you within one working day.',
     mapTitle:'Location of B&B Fahrschule',
     mapConsent:'Loading the map transfers data to the map provider, including your IP address. The map is only loaded after you click.',
     mapLoad:'Load map',
@@ -330,7 +330,7 @@ window.BBi18n.register('en', {
   },
 
   footer: {
-    about:'Your driving school for every common licence category — personal, modern and fairly priced.',
+    about:'Your driving school for every common licence category, personal, modern and fairly priced.',
     navTitle:'Driving school', legalTitle:'Legal', contactTitle:'Contact',
     devCredit: 'Website development', rights:'All rights reserved.', socialTitle:'Follow us',
     madeNote:'This website contains no tracking cookies.'
@@ -432,9 +432,9 @@ window.BBi18n.register('en', {
           '<p>Log files are generally deleted after no more than seven days unless they are needed to investigate a specific case of misuse.</p>' },
         { h:'Local storage in your browser', html:
           '<p>This website does not use tracking cookies. For its basic functions we use your browser&rsquo;s local storage, where only the following entries are kept:</p>' +
-          '<ul><li><strong>bb-lang</strong> — the language you selected, so the site appears in the same language on your next visit</li>' +
-          '<li><strong>bb-map-consent</strong> — your decision to load the map view</li>' +
-          '<li><strong>bb-consent</strong> — your decision regarding statistics, if these are enabled</li></ul>' +
+          '<ul><li><strong>bb-lang</strong>: the language you selected, so the site appears in the same language on your next visit</li>' +
+          '<li><strong>bb-map-consent</strong>: your decision to load the map view</li>' +
+          '<li><strong>bb-consent</strong>: your decision regarding statistics, if these are enabled</li></ul>' +
           '<p>These entries remain solely on your device and are not transmitted to us or to third parties. As this is a function you have expressly requested, the storage does not require consent under § 25(2)(2) of the German Telecommunications Digital Services Data Protection Act (TDDDG). You can delete the stored entries at any time via your browser settings.</p>' },
         { h:'Contacting us', html:
           '<h3>Contact form</h3>' +
@@ -473,12 +473,12 @@ window.BBi18n.register('en', {
           '<p>If you assert a justified request for deletion or withdraw your consent, your data will be deleted unless other legally permissible grounds for storage exist.</p>' },
         { h:'Your rights as a data subject', html:
           '<p>You have the following rights in relation to your personal data:</p>' +
-          '<ul><li><strong>Access</strong> (Article 15 GDPR) — you may request information about whether and which data we process about you.</li>' +
-          '<li><strong>Rectification</strong> (Article 16 GDPR) — you may request correction of inaccurate data or completion of incomplete data.</li>' +
-          '<li><strong>Erasure</strong> (Article 17 GDPR) — you may request deletion of your data unless statutory retention obligations prevent it.</li>' +
+          '<ul><li><strong>Access</strong> (Article 15 GDPR): you may request information about whether and which data we process about you.</li>' +
+          '<li><strong>Rectification</strong> (Article 16 GDPR): you may request correction of inaccurate data or completion of incomplete data.</li>' +
+          '<li><strong>Erasure</strong> (Article 17 GDPR): you may request deletion of your data unless statutory retention obligations prevent it.</li>' +
           '<li><strong>Restriction of processing</strong> (Article 18 GDPR)</li>' +
-          '<li><strong>Data portability</strong> (Article 20 GDPR) — release of your data in a structured, commonly used and machine-readable format.</li>' +
-          '<li><strong>Withdrawal of consent</strong> (Article 7(3) GDPR) — at any time with effect for the future.</li></ul>' +
+          '<li><strong>Data portability</strong> (Article 20 GDPR): release of your data in a structured, commonly used and machine-readable format.</li>' +
+          '<li><strong>Withdrawal of consent</strong> (Article 7(3) GDPR): at any time with effect for the future.</li></ul>' +
           '<p>An informal message to the contact details given in the &ldquo;Controller&rdquo; section is sufficient to exercise these rights.</p>' },
         { h:'Right to object under Article 21 GDPR', html:
           '<p><strong>Where data processing is based on Article 6(1)(e) or (f) GDPR, you have the right at any time to object, on grounds relating to your particular situation, to the processing of your personal data.</strong></p>' +

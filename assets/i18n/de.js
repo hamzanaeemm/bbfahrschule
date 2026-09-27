@@ -28,18 +28,18 @@ window.BBi18n.register('de', {
   a11y: { langSwitch:'Sprache wählen', toTop:'Nach oben', skip:'Zum Inhalt springen',
           logo:'Logo B&B Fahrschule', car:'Schulfahrzeug VW T-Roc' },
 
-  dev: { placeholders:'Platzhalter in assets/js/config.js noch nicht ersetzt — vor dem Livegang anpassen.',
+  dev: { placeholders:'Platzhalter in assets/js/config.js noch nicht ersetzt, vor dem Livegang anpassen.',
          hide:'Ausblenden' },
 
   /* ------------------------------------------------------------ Startseite */
   home: {
     metaTitle: 'Führerschein machen',
-    metaDesc: 'B&B Fahrschule — moderne Fahrschule mit erfahrenen Fahrlehrern. Führerschein Klasse B, B197, B78, BF17 und mehr. Jetzt Kosten berechnen und anmelden.',
+    metaDesc: 'B&B Fahrschule: moderne Fahrschule mit erfahrenen Fahrlehrern. Führerschein Klasse B, B197, B78, BF17 und mehr. Jetzt Kosten berechnen und anmelden.',
     heroEyebrow: 'Fahrschule in {city}',
     heroTitle: 'Hol dir <em>jetzt</em> deinen Führerschein.',
-    heroLead: 'Persönliche Betreuung, moderne Fahrzeuge und flexible Termine. Bei uns lernst du entspannt Auto fahren — vom ersten Theorieabend bis zur bestandenen Prüfung.',
+    heroLead: 'Persönliche Betreuung, moderne Fahrzeuge und flexible Termine. Bei uns lernst du entspannt Auto fahren, vom ersten Theorieabend bis zur bestandenen Prüfung.',
     trust: { students:'Fahrschüler', pass:'Bestehensquote', years:'Jahre Erfahrung', rating:'Bewertung' },
-    heroPlate: 'Ausbildung im VW T-Roc — Automatik & Schaltgetriebe',
+    heroPlate: 'Ausbildung im VW T-Roc: Automatik & Schaltgetriebe',
 
     barItems: ['Kostenlose Erstberatung', 'Theorie auch online lernen',
                'Fahrstunden ab Wunschort', 'Ausbildung in 4 Sprachen'],
@@ -48,39 +48,39 @@ window.BBi18n.register('de', {
     uspTitle: 'Eine Fahrschule, die sich nach dir richtet',
     uspLead: 'Wir wissen: Schule, Ausbildung oder Job lassen wenig Luft. Deshalb ist bei uns alles darauf ausgelegt, dass du schnell und ohne Stress zum Führerschein kommst.',
     usp: [
-      { t:'Erfahrene Fahrlehrer', d:'Ruhig, geduldig und mit jahrelanger Praxis. Bei uns bekommst du deinen festen Fahrlehrer — kein ständiger Wechsel.' },
+      { t:'Erfahrene Fahrlehrer', d:'Ruhig, geduldig und mit jahrelanger Praxis. Bei uns bekommst du deinen festen Fahrlehrer, kein ständiger Wechsel.' },
       { t:'Moderne Fahrzeuge', d:'Gepflegte, sichere Schulfahrzeuge mit aktueller Assistenztechnik. Automatik und Schaltgetriebe stehen bereit.' },
       { t:'Flexible Termine', d:'Fahrstunden am Morgen, am Abend oder samstags. Abholung an Schule, Uni oder Arbeitsplatz ist meist möglich.' },
-      { t:'Theorie online lernen', d:'Mit App und Online-Zugang lernst du wann und wo du willst — im Bus, in der Pause oder abends auf dem Sofa.' },
-      { t:'Faire, klare Preise', d:'Keine versteckten Kosten. Du siehst vorab, was auf dich zukommt — mit unserem Kostenrechner sogar auf den Euro genau geschätzt.' },
-      { t:'Ausbildung in 4 Sprachen', d:'Deutsch, Englisch, Türkisch und Arabisch. Sprich uns an — wir finden immer einen Weg, dich zu begleiten.' }
+      { t:'Theorie online lernen', d:'Mit App und Online-Zugang lernst du wann und wo du willst, im Bus, in der Pause oder abends auf dem Sofa.' },
+      { t:'Faire, klare Preise', d:'Keine versteckten Kosten. Du siehst vorab, was auf dich zukommt, mit unserem Kostenrechner sogar auf den Euro genau geschätzt.' },
+      { t:'Ausbildung in 4 Sprachen', d:'Deutsch, Englisch, Türkisch und Arabisch. Sprich uns an, wir finden immer einen Weg, dich zu begleiten.' }
     ],
 
     classesEyebrow: 'Führerscheinklassen',
     classesTitle: 'Welcher Führerschein soll es sein?',
-    classesLead: 'Auto oder Anhänger, Automatik oder Schaltgetriebe — wir bilden in allen gängigen Pkw-Klassen aus und beraten dich, welche wirklich zu dir passt.',
+    classesLead: 'Auto oder Anhänger, Automatik oder Schaltgetriebe, wir bilden in allen gängigen Pkw-Klassen aus und beraten dich, welche wirklich zu dir passt.',
 
     stepsEyebrow: 'So läuft es ab',
     stepsTitle: 'In fünf Schritten zum Führerschein',
-    stepsLead: 'Von der Anmeldung bis zum Führerschein in der Hand — du musst dich um nichts alleine kümmern. Wir sagen dir bei jedem Schritt genau, was zu tun ist.',
+    stepsLead: 'Von der Anmeldung bis zum Führerschein in der Hand. Du musst dich um nichts alleine kümmern. Wir sagen dir bei jedem Schritt genau, was zu tun ist.',
     steps: [
-      { t:'Anmelden', d:'Kostenloses Beratungsgespräch, Ausbildungsvertrag unterschreiben — mehr brauchst du für den Start nicht.' },
+      { t:'Anmelden', d:'Kostenloses Beratungsgespräch, Ausbildungsvertrag unterschreiben. Mehr brauchst du für den Start nicht.' },
       { t:'Unterlagen besorgen', d:'Sehtest, Erste-Hilfe-Kurs und Passbild. Den Antrag bei der Behörde stellen wir gemeinsam mit dir.' },
       { t:'Theorie lernen', d:'Unterricht bei uns vor Ort plus App für unterwegs. Danach die Theorieprüfung bei TÜV oder DEKRA.' },
       { t:'Fahren üben', d:'Erst Grundlagen, dann Stadtverkehr, zum Schluss die zwölf vorgeschriebenen Sonderfahrten.' },
-      { t:'Prüfung bestehen', d:'Rund 45 Minuten mit dem Prüfer — und der Führerschein gehört dir.' }
+      { t:'Prüfung bestehen', d:'Rund 45 Minuten mit dem Prüfer, und der Führerschein gehört dir.' }
     ],
 
     calcEyebrow: 'Kostenrechner',
     calcTitle: 'Was kostet dein Führerschein?',
-    calcLead: 'Der Preis hängt vor allem davon ab, wie viele Fahrstunden du brauchst. Mit unserem Rechner bekommst du in 30 Sekunden eine realistische Schätzung — ganz ohne Anmeldung.',
+    calcLead: 'Der Preis hängt vor allem davon ab, wie viele Fahrstunden du brauchst. Mit unserem Rechner bekommst du in 30 Sekunden eine realistische Schätzung, ganz ohne Anmeldung.',
     calcBullets: ['Getrennt nach Fahrschul- und Fremdkosten',
                   'Alle gesetzlichen Pflichtstunden bereits enthalten',
                   'Sofort sichtbar, keine E-Mail nötig'],
 
     fleetEyebrow: 'Unsere Fahrzeuge',
     fleetTitle: 'Lernen im VW T-Roc',
-    fleetLead: 'Unser Schulfahrzeug ist übersichtlich, sicher und angenehm zu fahren — ideal für die ersten Stunden und stark genug für Autobahn und Überland.',
+    fleetLead: 'Unser Schulfahrzeug ist übersichtlich, sicher und angenehm zu fahren, ideal für die ersten Stunden und stark genug für Autobahn und Überland.',
     fleetList: ['Rückfahrkamera und Parksensoren', 'Abstands- und Spurhalteassistent',
                 'Klimaautomatik und höhenverstellbare Sitze', 'Automatik- und Schaltvariante verfügbar',
                 'Regelmäßig gewartet und voll versichert'],
@@ -88,7 +88,7 @@ window.BBi18n.register('de', {
     reviewsEyebrow: 'Bewertungen',
     reviewsTitle: 'Was unsere Fahrschüler sagen',
     reviews: [
-      { n:'Lena M.', r:'Klasse B · Bestanden', q:'Ich hatte echt Respekt vor dem Autofahren. Mein Fahrlehrer hat mir die Angst komplett genommen — beim ersten Versuch bestanden. Danke!' },
+      { n:'Lena M.', r:'Klasse B · Bestanden', q:'Ich hatte echt Respekt vor dem Autofahren. Mein Fahrlehrer hat mir die Angst komplett genommen. Beim ersten Versuch bestanden. Danke!' },
       { n:'Yusuf K.', r:'Klasse B197 · Bestanden', q:'Termine waren super flexibel, ich konnte die Fahrstunden gut neben der Arbeit legen. Erklärt wurde alles in Ruhe, auch auf Türkisch.' },
       { n:'Sarah B.', r:'Klasse B78 · Bestanden', q:'Sehr gut organisiert. Der Theorieunterricht war nie langweilig und man hat gemerkt, dass die Fahrlehrer wirklich Lust auf den Job haben.' }
     ],
@@ -99,7 +99,7 @@ window.BBi18n.register('de', {
       { q:'Wie lange dauert es, bis ich den Führerschein habe?',
         a:'In der Regel drei bis sechs Monate. Wie schnell es geht, hängt davon ab, wie oft du Theorieunterricht besuchst und wie viele Fahrstunden pro Woche du nimmst. Mit einem Intensivkurs ist es auch deutlich schneller möglich.' },
       { q:'Wie viele Fahrstunden brauche ich wirklich?',
-        a:'Das ist sehr individuell. Neben den zwölf gesetzlich vorgeschriebenen Sonderfahrten für die Klasse B nehmen die meisten Fahrschüler zwischen 20 und 35 Übungsstunden. Dein Fahrlehrer sagt dir ehrlich, wann du prüfungsreif bist — wir verkaufen niemandem unnötige Stunden.' },
+        a:'Das ist sehr individuell. Neben den zwölf gesetzlich vorgeschriebenen Sonderfahrten für die Klasse B nehmen die meisten Fahrschüler zwischen 20 und 35 Übungsstunden. Dein Fahrlehrer sagt dir ehrlich, wann du prüfungsreif bist, wir verkaufen niemandem unnötige Stunden.' },
       { q:'Kann ich mich schon mit 17 anmelden?',
         a:'Ja. Beim Begleiteten Fahren ab 17 (BF17) kannst du die Ausbildung bereits mit 16,5 Jahren beginnen und die Prüfung frühestens einen Monat vor deinem 17. Geburtstag ablegen. Danach fährst du bis 18 in Begleitung einer eingetragenen Person.' },
       { q:'Was ist der Unterschied zwischen B und B197?',
@@ -107,38 +107,38 @@ window.BBi18n.register('de', {
       { q:'Welche Unterlagen brauche ich für die Anmeldung?',
         a:'Einen gültigen Personalausweis oder Reisepass, ein biometrisches Passbild, die Bescheinigung über den Sehtest und die Teilnahmebescheinigung des Erste-Hilfe-Kurses. Den Antrag bei der Führerscheinstelle reichen wir gemeinsam mit dir ein.' },
       { q:'Kann ich die Kosten in Raten zahlen?',
-        a:'Bei uns zahlst du nicht alles auf einmal: Der Grundbetrag wird bei der Anmeldung fällig, Fahrstunden rechnest du laufend ab. Sprich uns an, wenn du eine individuelle Aufteilung brauchst — wir finden fast immer eine Lösung.' },
+        a:'Bei uns zahlst du nicht alles auf einmal: Der Grundbetrag wird bei der Anmeldung fällig, Fahrstunden rechnest du laufend ab. Sprich uns an, wenn du eine individuelle Aufteilung brauchst, wir finden fast immer eine Lösung.' },
       { q:'Bietet ihr den Unterricht auch in anderen Sprachen an?',
-        a:'Ja. Wir betreuen unsere Fahrschüler auf Deutsch, Englisch, Türkisch und Arabisch. Die amtliche Theorieprüfung kann in mehreren Fremdsprachen abgelegt werden — sprich uns an, dann klären wir das gemeinsam.' },
+        a:'Ja. Wir betreuen unsere Fahrschüler auf Deutsch, Englisch, Türkisch und Arabisch. Die amtliche Theorieprüfung kann in mehreren Fremdsprachen abgelegt werden, sprich uns an, dann klären wir das gemeinsam.' },
       { q:'Was passiert, wenn ich durch die Prüfung falle?',
-        a:'Kein Weltuntergang — das passiert vielen. Nach einer nicht bestandenen Prüfung gilt eine Wartezeit von zwei Wochen. Wir schauen uns gemeinsam an, woran es lag, üben gezielt nach und melden dich neu an.' }
+        a:'Kein Weltuntergang: das passiert vielen. Nach einer nicht bestandenen Prüfung gilt eine Wartezeit von zwei Wochen. Wir schauen uns gemeinsam an, woran es lag, üben gezielt nach und melden dich neu an.' }
     ],
 
     ctaTitle: 'Bereit für die erste Fahrstunde?',
     ctaLead: 'Melde dich unverbindlich bei uns. Wir beraten dich kostenlos, beantworten alle Fragen und du entscheidest in Ruhe.',
 
-    seoIntroTitle: 'Fahrschule in {city} — persönlich, modern und fair',
-    seoIntro: 'Die B&B Fahrschule begleitet Fahranfängerinnen und Fahranfänger in {city} und Umgebung auf dem Weg zum Führerschein. Wir setzen auf kleine Theoriegruppen, feste Fahrlehrer und ein Ausbildungstempo, das zu dir passt. Ob Klasse B fürs Auto, B197 mit Automatik, B78 nur Automatik oder die Erweiterung um einen Anhänger — bei uns bekommst du eine ehrliche Einschätzung, wie viele Stunden du brauchst, und eine transparente Aufstellung aller Kosten. Komm gerne unverbindlich zu einem Beratungsgespräch vorbei.'
+    seoIntroTitle: 'Fahrschule in {city}: persönlich, modern und fair',
+    seoIntro: 'Die B&B Fahrschule begleitet Fahranfängerinnen und Fahranfänger in {city} und Umgebung auf dem Weg zum Führerschein. Wir setzen auf kleine Theoriegruppen, feste Fahrlehrer und ein Ausbildungstempo, das zu dir passt. Ob Klasse B fürs Auto, B197 mit Automatik, B78 nur Automatik oder die Erweiterung um einen Anhänger, bei uns bekommst du eine ehrliche Einschätzung, wie viele Stunden du brauchst, und eine transparente Aufstellung aller Kosten. Komm gerne unverbindlich zu einem Beratungsgespräch vorbei.'
   },
 
   /* ----------------------------------------------------- Klassen (Stammdaten) */
   class: {
-    B:    { short:'B',    name:'Klasse B — Auto',
+    B:    { short:'B',    name:'Klasse B: Auto',
             desc:'Der klassische Autoführerschein für Fahrzeuge bis 3,5 t zulässiger Gesamtmasse mit bis zu acht Sitzplätzen außer dem Fahrersitz.',
             drive:'Pkw bis 3,5 t · Anhänger bis 750 kg' },
-    B197: { short:'B197', name:'Klasse B197 — Automatik mit Schaltberechtigung',
-            desc:'Ausbildung und Prüfung im Automatikfahrzeug — und trotzdem ein vollwertiger Führerschein, mit dem du auch Schaltwagen fahren darfst.',
+    B197: { short:'B197', name:'Klasse B197: Automatik mit Schaltberechtigung',
+            desc:'Ausbildung und Prüfung im Automatikfahrzeug, und trotzdem ein vollwertiger Führerschein, mit dem du auch Schaltwagen fahren darfst.',
             drive:'Wie Klasse B, ohne Schlüsselzahl 78' },
-    B78:  { short:'B78',  name:'Klasse B78 — nur Automatik',
-            desc:'Ausbildung und Prüfung im Automatikfahrzeug. Im Führerschein wird die Schlüsselzahl 78 eingetragen — du darfst damit ausschließlich Automatikfahrzeuge fahren.',
+    B78:  { short:'B78',  name:'Klasse B78: nur Automatik',
+            desc:'Ausbildung und Prüfung im Automatikfahrzeug. Im Führerschein wird die Schlüsselzahl 78 eingetragen, du darfst damit ausschließlich Automatikfahrzeuge fahren.',
             drive:'Wie Klasse B, nur Automatik (Schlüsselzahl 78)' },
     BF17: { short:'BF17', name:'Begleitetes Fahren ab 17',
             desc:'Ein Jahr früher starten: Nach bestandener Prüfung fährst du bis zum 18. Geburtstag in Begleitung einer eingetragenen Person.',
             drive:'Wie Klasse B, in Begleitung' },
-    B96:  { short:'B96',  name:'Schlüsselzahl B96 — Anhänger',
-            desc:'Eintägige Zusatzqualifikation ohne Prüfung für Gespanne zwischen 3,5 t und 4,25 t — ideal für Wohnwagen und Pferdeanhänger.',
+    B96:  { short:'B96',  name:'Schlüsselzahl B96: Anhänger',
+            desc:'Eintägige Zusatzqualifikation ohne Prüfung für Gespanne zwischen 3,5 t und 4,25 t, ideal für Wohnwagen und Pferdeanhänger.',
             drive:'Zug bis 4,25 t zulässige Gesamtmasse' },
-    BE:   { short:'BE',   name:'Klasse BE — großer Anhänger',
+    BE:   { short:'BE',   name:'Klasse BE: großer Anhänger',
             desc:'Für schwerere Anhänger über 750 kg bis 3,5 t. Mit praktischer Prüfung, aber ohne zusätzlichen Theorieunterricht.',
             drive:'Pkw + Anhänger bis 3,5 t' }
   },
@@ -146,7 +146,7 @@ window.BBi18n.register('de', {
   /* -------------------------------------------------------- Klassen-Seite */
   classes: {
     metaTitle: 'Führerscheinklassen',
-    metaDesc: 'Alle Führerscheinklassen bei der B&B Fahrschule: Klasse B, B197, B78, BF17, B96 und BE — mit Mindestalter, Pflichtstunden und Voraussetzungen.',
+    metaDesc: 'Alle Führerscheinklassen bei der B&B Fahrschule: Klasse B, B197, B78, BF17, B96 und BE, mit Mindestalter, Pflichtstunden und Voraussetzungen.',
     title: 'Führerscheinklassen im Überblick',
     lead: 'Welche Klasse passt zu dir? Hier findest du zu jedem Führerschein die wichtigsten Eckdaten: Mindestalter, vorgeschriebene Sonderfahrten, Theorieumfang und was du damit fahren darfst.',
     minAge: 'Mindestalter',
@@ -179,7 +179,7 @@ window.BBi18n.register('de', {
     metaTitle: 'Preise & Kostenrechner',
     metaDesc: 'Transparente Preise der B&B Fahrschule: Grundbetrag, Fahrstunde, Sonderfahrten und Prüfungsgebühren. Jetzt individuelle Kosten für deinen Führerschein berechnen.',
     title: 'Preise & Kostenrechner',
-    lead: 'Bei uns weißt du vorher, was auf dich zukommt. Unten findest du unsere aktuelle Preisliste — und darüber einen Rechner, der dir eine realistische Gesamtsumme für deinen Führerschein schätzt.',
+    lead: 'Bei uns weißt du vorher, was auf dich zukommt. Unten findest du unsere aktuelle Preisliste, und darüber einen Rechner, der dir eine realistische Gesamtsumme für deinen Führerschein schätzt.',
     tableSchool: 'Leistungen der Fahrschule',
     tableThird: 'Fremdkosten (Prüforganisation, Behörde, Arzt)',
     tableExtras: 'Zusatzleistungen',
@@ -205,7 +205,7 @@ window.BBi18n.register('de', {
       ersteHilfe: 'Erste-Hilfe-Kurs (9 Unterrichtseinheiten)',
       passbild: 'Biometrisches Passbild',
       antrag: 'Antragsgebühr Führerscheinstelle',
-      b96: 'Schlüsselzahl B96 — Komplettpaket',
+      b96: 'Schlüsselzahl B96: Komplettpaket',
       simulator: 'Fahrsimulator je Einheit',
       intensiv: 'Aufschlag Ferien- oder Intensivkurs'
     }
@@ -223,7 +223,7 @@ window.BBi18n.register('de', {
 
     opt: {
       firstLicence:  { t:'Es ist mein erster Führerschein', d:'Sehtest, Erste-Hilfe-Kurs, Passbild und Antragsgebühr fallen dann zusätzlich an.' },
-      schalt:        { t:'Schaltkompetenz nachweisen (B197)', d:'Zehn zusätzliche Fahrstunden auf einem Schaltfahrzeug plus Testfahrt — danach darfst du auch Schaltwagen fahren.' },
+      schalt:        { t:'Schaltkompetenz nachweisen (B197)', d:'Zehn zusätzliche Fahrstunden auf einem Schaltfahrzeug plus Testfahrt, danach darfst du auch Schaltwagen fahren.' },
       sehtest:       { t:'Sehtest wird noch benötigt', d:'Beim Optiker oder Augenarzt, gültig zwei Jahre.' },
       ersteHilfe:    { t:'Erste-Hilfe-Kurs wird noch benötigt', d:'Neun Unterrichtseinheiten, gilt unbefristet.' },
       passbild:      { t:'Biometrisches Passbild wird noch benötigt', d:'Für den Antrag bei der Führerscheinstelle.' },
@@ -257,7 +257,7 @@ window.BBi18n.register('de', {
     info: { age:'Mindestalter {n} Jahre', theory:'{n} Doppelstunden Theorie',
             special:'{n} Pflicht-Sonderfahrten', noExam:'Ohne praktische Prüfung' },
 
-    disclaimer: 'Diese Berechnung ist eine unverbindliche Schätzung und kein Angebot im Rechtssinne. Wie viele Fahrstunden du tatsächlich brauchst, lässt sich vorher niemandem seriös versprechen — es hängt von deinem Lerntempo, deiner Vorerfahrung und der Verkehrssituation vor Ort ab. Fremdkosten für TÜV/DEKRA, Behörde und Arzt können sich jederzeit ändern. Maßgeblich ist immer die in der Fahrschule ausgehängte Preisliste nach § 19 Fahrlehrergesetz.'
+    disclaimer: 'Diese Berechnung ist eine unverbindliche Schätzung und kein Angebot im Rechtssinne. Wie viele Fahrstunden du tatsächlich brauchst, lässt sich vorher niemandem seriös versprechen, es hängt von deinem Lerntempo, deiner Vorerfahrung und der Verkehrssituation vor Ort ab. Fremdkosten für TÜV/DEKRA, Behörde und Arzt können sich jederzeit ändern. Maßgeblich ist immer die in der Fahrschule ausgehängte Preisliste nach § 19 Fahrlehrergesetz.'
   },
 
   /* ------------------------------------------------------------ Ablauf */
@@ -265,7 +265,7 @@ window.BBi18n.register('de', {
     metaTitle: 'Ablauf der Fahrausbildung',
     metaDesc: 'Von der Anmeldung bis zum Führerschein: So läuft die Fahrausbildung bei der B&B Fahrschule Schritt für Schritt ab.',
     title: 'So kommst du zum Führerschein',
-    lead: 'Der Weg zum Führerschein ist klar geregelt — und wir gehen ihn gemeinsam mit dir. Hier siehst du jeden Schritt, was du dafür brauchst und wie lange es ungefähr dauert.',
+    lead: 'Der Weg zum Führerschein ist klar geregelt, und wir gehen ihn gemeinsam mit dir. Hier siehst du jeden Schritt, was du dafür brauchst und wie lange es ungefähr dauert.',
     stepsTitle: 'Dein Weg in acht Schritten',
     duration: 'Dauer',
     youNeed: 'Das brauchst du',
@@ -277,7 +277,7 @@ window.BBi18n.register('de', {
         d:'Den Sehtest machst du beim Optiker, den Erste-Hilfe-Kurs mit neun Unterrichtseinheiten bei einer anerkannten Stelle. Beides brauchst du für den Antrag.',
         dur:'ein Nachmittag', need:'Sehtest, Erste-Hilfe-Bescheinigung, Passbild' },
       { t:'Antrag bei der Führerscheinstelle',
-        d:'Wir stellen den Antrag gemeinsam mit dir und reichen ihn bei der zuständigen Behörde ein. Die Bearbeitung dauert je nach Stadt einige Wochen — fang also früh an.',
+        d:'Wir stellen den Antrag gemeinsam mit dir und reichen ihn bei der zuständigen Behörde ein. Die Bearbeitung dauert je nach Stadt einige Wochen, fang also früh an.',
         dur:'4 bis 8 Wochen Bearbeitung', need:'Alle Unterlagen aus Schritt 2' },
       { t:'Theorieunterricht',
         d:'Für die Klasse B sind zwölf Doppelstunden Grundstoff und zwei Doppelstunden klassenspezifischer Zusatzstoff vorgeschrieben. Parallel lernst du mit App und Online-Zugang.',
@@ -296,13 +296,13 @@ window.BBi18n.register('de', {
         dur:'ca. 45 bis 55 Minuten', need:'Ausweis, Prüfauftrag, Sehtest' }
     ],
     tipsTitle: 'Tipps, mit denen es schneller geht',
-    tips: ['Melde dich an, bevor du 17 bzw. 18 wirst — die Behörde braucht Bearbeitungszeit.',
+    tips: ['Melde dich an, bevor du 17 bzw. 18 wirst. Die Behörde braucht Bearbeitungszeit.',
            'Besuche den Theorieunterricht möglichst am Stück statt verteilt über Monate.',
            'Lerne täglich zehn Minuten mit der App statt einmal pro Woche zwei Stunden.',
-           'Nimm mindestens zwei Fahrstunden pro Woche — sonst verlierst du zwischendurch wieder Sicherheit.',
+           'Nimm mindestens zwei Fahrstunden pro Woche, sonst verlierst du zwischendurch wieder Sicherheit.',
            'Lege die Sonderfahrten erst, wenn du im Stadtverkehr sicher bist.'],
     ctaTitle: 'Fragen zum Ablauf?',
-    ctaLead: 'Wir erklären dir gern in Ruhe, was als Nächstes ansteht — telefonisch, per WhatsApp oder direkt bei uns im Büro.'
+    ctaLead: 'Wir erklären dir gern in Ruhe, was als Nächstes ansteht, telefonisch, per WhatsApp oder direkt bei uns im Büro.'
   },
 
   /* ----------------------------------------------------------- Über uns */
@@ -310,15 +310,15 @@ window.BBi18n.register('de', {
     metaTitle: 'Über uns',
     metaDesc: 'Die B&B Fahrschule stellt sich vor: erfahrene Fahrlehrer, moderne Fahrzeuge und eine Ausbildung in vier Sprachen.',
     title: 'Über die B&B Fahrschule',
-    lead: 'Wir sind eine inhabergeführte Fahrschule, die sich Zeit für ihre Fahrschüler nimmt. Kein Massenbetrieb, keine wechselnden Fahrlehrer — sondern persönliche Betreuung vom ersten Gespräch bis zur bestandenen Prüfung.',
+    lead: 'Wir sind eine inhabergeführte Fahrschule, die sich Zeit für ihre Fahrschüler nimmt. Kein Massenbetrieb, keine wechselnden Fahrlehrer, sondern persönliche Betreuung vom ersten Gespräch bis zur bestandenen Prüfung.',
     storyTitle: 'Unsere Geschichte',
-    storyText: 'Angefangen haben wir mit zwei Fahrzeugen und der Überzeugung, dass Fahrschule auch entspannt gehen kann. Seitdem haben wir viele Fahrschülerinnen und Fahrschüler begleitet — junge Menschen auf dem Weg zur ersten eigenen Mobilität genauso wie Erwachsene, die den Führerschein später nachholen. Was sich nicht geändert hat: Wir nehmen uns Zeit, wir reden Klartext, und wir verkaufen niemandem Fahrstunden, die er nicht braucht.',
+    storyText: 'Angefangen haben wir mit zwei Fahrzeugen und der Überzeugung, dass Fahrschule auch entspannt gehen kann. Seitdem haben wir viele Fahrschülerinnen und Fahrschüler begleitet, junge Menschen auf dem Weg zur ersten eigenen Mobilität genauso wie Erwachsene, die den Führerschein später nachholen. Was sich nicht geändert hat: Wir nehmen uns Zeit, wir reden Klartext, und wir verkaufen niemandem Fahrstunden, die er nicht braucht.',
     valuesTitle: 'Wofür wir stehen',
     values: [
-      { t:'Geduld', d:'Jeder lernt anders schnell. Bei uns gibt es kein Genervtsein und keinen Druck — sondern so viele Erklärungen, wie du brauchst.' },
+      { t:'Geduld', d:'Jeder lernt anders schnell. Bei uns gibt es kein Genervtsein und keinen Druck, sondern so viele Erklärungen, wie du brauchst.' },
       { t:'Ehrlichkeit', d:'Wir sagen dir offen, wann du prüfungsreif bist. Auch dann, wenn das bedeutet, dass wir weniger verdienen.' },
       { t:'Sicherheit', d:'Wir bilden nicht für die Prüfung aus, sondern fürs echte Leben danach. Dazu gehören Gefahrenerkennung und vorausschauendes Fahren.' },
-      { t:'Offenheit', d:'Bei uns ist jeder willkommen — unabhängig von Herkunft, Alter oder Sprache. Wir betreuen auf Deutsch, Englisch, Türkisch und Arabisch.' }
+      { t:'Offenheit', d:'Bei uns ist jeder willkommen: unabhängig von Herkunft, Alter oder Sprache. Wir betreuen auf Deutsch, Englisch, Türkisch und Arabisch.' }
     ],
     teamTitle: 'Dein Team',
     teamLead: 'Wir sind ein kleines Team und du wirst uns alle kennenlernen. Dein Fahrlehrer bleibt dabei über die gesamte Ausbildung derselbe.',
@@ -330,7 +330,7 @@ window.BBi18n.register('de', {
     teamNote: 'Die Angaben zum Team sind noch Platzhalter und werden vor dem Livegang durch die echten Personen ersetzt.',
     fleetTitle: 'Unsere Fahrzeuge',
     ctaTitle: 'Lern uns kennen',
-    ctaLead: 'Der beste Weg, eine Fahrschule einzuschätzen, ist ein Besuch. Komm während der Bürozeiten vorbei — ein Termin ist nicht nötig.'
+    ctaLead: 'Der beste Weg, eine Fahrschule einzuschätzen, ist ein Besuch. Komm während der Bürozeiten vorbei. Ein Termin ist nicht nötig.'
   },
 
   /* ------------------------------------------------------------- Kontakt */
@@ -347,7 +347,7 @@ window.BBi18n.register('de', {
     theoryTitle: 'Theorieunterricht',
     directions: 'Route planen',
     formTitle: 'Schreib uns',
-    formLead: 'Fülle einfach das Formular aus — wir melden uns in der Regel innerhalb eines Werktages zurück.',
+    formLead: 'Fülle einfach das Formular aus: wir melden uns in der Regel innerhalb eines Werktages zurück.',
     mapTitle: 'Standort der B&B Fahrschule',
     mapConsent: 'Beim Laden der Karte werden Daten an den Kartenanbieter übertragen, unter anderem deine IP-Adresse. Erst nach deinem Klick wird die Karte geladen.',
     mapLoad: 'Karte laden',
@@ -380,7 +380,7 @@ window.BBi18n.register('de', {
 
   /* -------------------------------------------------------------- Footer */
   footer: {
-    about: 'Deine Fahrschule für alle gängigen Führerscheinklassen — persönlich, modern und mit fairen Preisen.',
+    about: 'Deine Fahrschule für alle gängigen Führerscheinklassen, persönlich, modern und mit fairen Preisen.',
     navTitle: 'Fahrschule', legalTitle: 'Rechtliches', contactTitle: 'Kontakt',
     devCredit: 'Website-Entwicklung', rights: 'Alle Rechte vorbehalten.',
     socialTitle: 'Folge uns',
@@ -514,9 +514,9 @@ window.BBi18n.register('de', {
         { h: 'Lokale Speicherung im Browser', html:
           '<p>Diese Website setzt keine Tracking-Cookies ein. Für die Grundfunktionen nutzen wir den lokalen Speicher Ihres Browsers (Local Storage). Dort werden ausschließlich folgende Angaben abgelegt:</p>' +
           '<ul>' +
-          '<li><strong>bb-lang</strong> — die von Ihnen gewählte Sprache, damit die Seite beim nächsten Besuch in derselben Sprache erscheint</li>' +
-          '<li><strong>bb-map-consent</strong> — Ihre Entscheidung, die Kartenansicht zu laden</li>' +
-          '<li><strong>bb-consent</strong> — Ihre Entscheidung zur Statistikerfassung, sofern diese aktiviert ist</li>' +
+          '<li><strong>bb-lang</strong>: die von Ihnen gewählte Sprache, damit die Seite beim nächsten Besuch in derselben Sprache erscheint</li>' +
+          '<li><strong>bb-map-consent</strong>: Ihre Entscheidung, die Kartenansicht zu laden</li>' +
+          '<li><strong>bb-consent</strong>: Ihre Entscheidung zur Statistikerfassung, sofern diese aktiviert ist</li>' +
           '</ul>' +
           '<p>Diese Angaben verbleiben ausschließlich auf Ihrem Endgerät und werden nicht an uns oder an Dritte übertragen. Da es sich um eine von Ihnen ausdrücklich gewünschte Funktion handelt, ist die Speicherung nach § 25 Absatz 2 Nummer 2 des Telekommunikation-Digitale-Dienste-Datenschutz-Gesetzes (TDDDG) einwilligungsfrei. Sie können die gespeicherten Angaben jederzeit über die Einstellungen Ihres Browsers löschen.</p>' },
 
@@ -570,12 +570,12 @@ window.BBi18n.register('de', {
         { h: 'Ihre Rechte als betroffene Person', html:
           '<p>Ihnen stehen gegenüber uns folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten zu:</p>' +
           '<ul>' +
-          '<li><strong>Auskunft</strong> (Artikel 15 DSGVO) — Sie können Auskunft darüber verlangen, ob und welche Daten wir über Sie verarbeiten.</li>' +
-          '<li><strong>Berichtigung</strong> (Artikel 16 DSGVO) — Sie können die Korrektur unrichtiger oder die Vervollständigung unvollständiger Daten verlangen.</li>' +
-          '<li><strong>Löschung</strong> (Artikel 17 DSGVO) — Sie können die Löschung Ihrer Daten verlangen, sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen.</li>' +
+          '<li><strong>Auskunft</strong> (Artikel 15 DSGVO): Sie können Auskunft darüber verlangen, ob und welche Daten wir über Sie verarbeiten.</li>' +
+          '<li><strong>Berichtigung</strong> (Artikel 16 DSGVO): Sie können die Korrektur unrichtiger oder die Vervollständigung unvollständiger Daten verlangen.</li>' +
+          '<li><strong>Löschung</strong> (Artikel 17 DSGVO): Sie können die Löschung Ihrer Daten verlangen, sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen.</li>' +
           '<li><strong>Einschränkung der Verarbeitung</strong> (Artikel 18 DSGVO)</li>' +
-          '<li><strong>Datenübertragbarkeit</strong> (Artikel 20 DSGVO) — Herausgabe Ihrer Daten in einem strukturierten, gängigen und maschinenlesbaren Format.</li>' +
-          '<li><strong>Widerruf einer Einwilligung</strong> (Artikel 7 Absatz 3 DSGVO) — jederzeit mit Wirkung für die Zukunft.</li>' +
+          '<li><strong>Datenübertragbarkeit</strong> (Artikel 20 DSGVO): Herausgabe Ihrer Daten in einem strukturierten, gängigen und maschinenlesbaren Format.</li>' +
+          '<li><strong>Widerruf einer Einwilligung</strong> (Artikel 7 Absatz 3 DSGVO): jederzeit mit Wirkung für die Zukunft.</li>' +
           '</ul>' +
           '<p>Zur Ausübung dieser Rechte genügt eine formlose Nachricht an die im Abschnitt „Verantwortlicher" genannten Kontaktdaten.</p>' },
 

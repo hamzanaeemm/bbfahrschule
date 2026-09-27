@@ -13,7 +13,7 @@ window.BB_CONFIG = {
   /* ---------------------------------------------------------------- Firma */
   business: {
     name:        'B&B Fahrschule',
-    legalName:   '[PLACEHOLDER] B&B Fahrschule — Inhaber Max Mustermann e. K.',
+    legalName:   '[PLACEHOLDER] B&B Fahrschule, Inhaber Max Mustermann e. K.',
     owner:       '[PLACEHOLDER] Max Mustermann',
     tagline_key: 'brand.tagline',
     founded:     '[PLACEHOLDER] 2015',
@@ -33,7 +33,7 @@ window.BB_CONFIG = {
     register:      '[PLACEHOLDER] Amtsgericht Koblenz, HRA 12345',
     vatId:         '[PLACEHOLDER] DE123456789',          // USt-IdNr. § 27a UStG
     taxNumber:     '[PLACEHOLDER] 22/123/45678',
-    licenceAuthority: '[PLACEHOLDER] Stadtverwaltung Koblenz, Straßenverkehrsamt — Fahrerlaubnisbehörde',
+    licenceAuthority: '[PLACEHOLDER] Stadtverwaltung Koblenz, Straßenverkehrsamt, Fahrerlaubnisbehörde',
     licenceNumber: '[PLACEHOLDER] Fahrschulerlaubnis Nr. FS-12345',
     profession:    'Fahrlehrer / Fahrschulinhaber (verliehen in der Bundesrepublik Deutschland)',
     professionLaw: 'Fahrlehrergesetz (FahrlG) und Fahrschüler-Ausbildungsordnung (FahrschAusbO)',

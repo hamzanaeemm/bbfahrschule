@@ -30,12 +30,12 @@ window.BBi18n.register('tr', {
 
   home: {
     metaTitle: 'Ehliyetini al',
-    metaDesc: 'B&B Fahrschule — deneyimli eğitmenlerle modern sürücü kursu. B, B197, B78, BF17 ve daha fazla sınıf. Maliyetini hesapla ve hemen kaydol.',
+    metaDesc: 'B&B Fahrschule: deneyimli eğitmenlerle modern sürücü kursu. B, B197, B78, BF17 ve daha fazla sınıf. Maliyetini hesapla ve hemen kaydol.',
     heroEyebrow: '{city} sürücü kursu',
     heroTitle: 'Ehliyetini <em>şimdi</em> al.',
-    heroLead: 'Kişisel ilgi, modern araçlar ve esnek randevular. Bizde araba kullanmayı rahat bir şekilde öğrenirsin — ilk teorik dersten sınavı geçtiğin güne kadar.',
+    heroLead: 'Kişisel ilgi, modern araçlar ve esnek randevular. Bizde araba kullanmayı rahat bir şekilde öğrenirsin, ilk teorik dersten sınavı geçtiğin güne kadar.',
     trust: { students:'Kursiyer', pass:'Başarı oranı', years:'Yıllık deneyim', rating:'Değerlendirme' },
-    heroPlate: 'VW T-Roc ile eğitim — otomatik ve manuel',
+    heroPlate: 'VW T-Roc ile eğitim: otomatik ve manuel',
 
     barItems: ['Ücretsiz ilk danışmanlık', 'Teoriyi online da öğren',
                'İstediğin yerden alınma', 'Dört dilde eğitim'],
@@ -44,39 +44,39 @@ window.BBi18n.register('tr', {
     uspTitle: 'Sana göre şekillenen bir sürücü kursu',
     uspLead: 'Okulun, mesleki eğitimin ya da işin az vakit bıraktığını biliyoruz. Bu yüzden buradaki her şey, ehliyete hızlı ve stressiz ulaşman için tasarlandı.',
     usp: [
-      { t:'Deneyimli eğitmenler', d:'Sakin, sabırlı ve yılların tecrübesiyle. Sabit bir eğitmenin olur — sürekli değişiklik yok.' },
+      { t:'Deneyimli eğitmenler', d:'Sakin, sabırlı ve yılların tecrübesiyle. Sabit bir eğitmenin olur, sürekli değişiklik yok.' },
       { t:'Modern araçlar', d:'Bakımlı, güvenli ve güncel sürüş destek sistemlerine sahip eğitim araçları. Otomatik ve manuel seçenek mevcut.' },
       { t:'Esnek randevular', d:'Sabah, akşam veya cumartesi dersleri. Okuldan, üniversiteden ya da iş yerinden alınma çoğu zaman mümkün.' },
-      { t:'Teoriyi online öğren', d:'Uygulama ve online erişimle istediğin zaman, istediğin yerde çalış — otobüste, molada ya da akşam evde.' },
-      { t:'Adil ve net fiyatlar', d:'Gizli masraf yok. Seni nelerin beklediğini önceden görürsün — hesaplayıcımızla neredeyse euro bazında.' },
-      { t:'Dört dilde eğitim', d:'Almanca, İngilizce, Türkçe ve Arapça. Bize söyle — sana eşlik etmenin bir yolunu mutlaka buluruz.' }
+      { t:'Teoriyi online öğren', d:'Uygulama ve online erişimle istediğin zaman, istediğin yerde çalış, otobüste, molada ya da akşam evde.' },
+      { t:'Adil ve net fiyatlar', d:'Gizli masraf yok. Seni nelerin beklediğini önceden görürsün, hesaplayıcımızla neredeyse euro bazında.' },
+      { t:'Dört dilde eğitim', d:'Almanca, İngilizce, Türkçe ve Arapça. Bize söyle, sana eşlik etmenin bir yolunu mutlaka buluruz.' }
     ],
 
     classesEyebrow: 'Ehliyet sınıfları',
     classesTitle: 'Hangi ehliyeti almak istersin?',
-    classesLead: 'Otomobil veya römork, otomatik veya manuel — tüm yaygın otomobil sınıflarında eğitim veriyor ve sana gerçekten hangisinin uyduğunu anlatıyoruz.',
+    classesLead: 'Otomobil veya römork, otomatik veya manuel, tüm yaygın otomobil sınıflarında eğitim veriyor ve sana gerçekten hangisinin uyduğunu anlatıyoruz.',
 
     stepsEyebrow: 'Süreç nasıl işliyor',
     stepsTitle: 'Beş adımda ehliyet',
-    stepsLead: 'Kayıttan ehliyeti eline almana kadar — hiçbir şeyle tek başına uğraşmak zorunda değilsin. Her adımda ne yapman gerektiğini tam olarak söylüyoruz.',
+    stepsLead: 'Kayıttan ehliyeti eline almana kadar: hiçbir şeyle tek başına uğraşmak zorunda değilsin. Her adımda ne yapman gerektiğini tam olarak söylüyoruz.',
     steps: [
-      { t:'Kaydol', d:'Ücretsiz danışmanlık görüşmesi, eğitim sözleşmesini imzala — başlamak için tek gereken bu.' },
+      { t:'Kaydol', d:'Ücretsiz danışmanlık görüşmesi, eğitim sözleşmesini imzala, başlamak için tek gereken bu.' },
       { t:'Belgeleri topla', d:'Göz testi, ilk yardım kursu ve biyometrik fotoğraf. Makama başvuruyu seninle birlikte yapıyoruz.' },
       { t:'Teoriyi öğren', d:'Burada yüz yüze ders ve yanında uygulama. Ardından TÜV veya DEKRA’da teorik sınav.' },
       { t:'Direksiyon çalış', d:'Önce temel beceriler, sonra şehir trafiği, en sonunda zorunlu on iki özel sürüş.' },
-      { t:'Sınavı geç', d:'Sınav görevlisiyle yaklaşık 45 dakika — ve ehliyet senin.' }
+      { t:'Sınavı geç', d:'Sınav görevlisiyle yaklaşık 45 dakika ve ehliyet senin.' }
     ],
 
     calcEyebrow: 'Maliyet hesaplayıcı',
     calcTitle: 'Ehliyetin sana kaça mal olacak?',
-    calcLead: 'Fiyat her şeyden önce kaç direksiyon dersine ihtiyacın olduğuna bağlı. Hesaplayıcımızla 30 saniyede gerçekçi bir tahmin alırsın — kayıt gerekmez.',
+    calcLead: 'Fiyat her şeyden önce kaç direksiyon dersine ihtiyacın olduğuna bağlı. Hesaplayıcımızla 30 saniyede gerçekçi bir tahmin alırsın, kayıt gerekmez.',
     calcBullets: ['Kurs ücretleri ve üçüncü taraf masrafları ayrı ayrı',
                   'Yasal zorunlu dersler zaten dahil',
                   'Anında görünür, e-posta gerekmez'],
 
     fleetEyebrow: 'Araçlarımız',
     fleetTitle: 'VW T-Roc ile öğren',
-    fleetLead: 'Eğitim aracımız geniş görüş açısına sahip, güvenli ve kullanımı keyifli — ilk dersler için ideal, otoyol ve şehirlerarası için yeterince güçlü.',
+    fleetLead: 'Eğitim aracımız geniş görüş açısına sahip, güvenli ve kullanımı keyifli, ilk dersler için ideal, otoyol ve şehirlerarası için yeterince güçlü.',
     fleetList: ['Geri görüş kamerası ve park sensörleri', 'Mesafe ve şerit takip asistanı',
                 'Otomatik klima ve yüksekliği ayarlanabilir koltuklar', 'Otomatik ve manuel versiyonlar mevcut',
                 'Düzenli bakımlı ve tam sigortalı'],
@@ -84,7 +84,7 @@ window.BBi18n.register('tr', {
     reviewsEyebrow: 'Değerlendirmeler',
     reviewsTitle: 'Kursiyerlerimiz ne diyor',
     reviews: [
-      { n:'Lena M.', r:'B sınıfı · Geçti', q:'Araba kullanmaktan gerçekten çekiniyordum. Eğitmenim bu korkuyu tamamen aldı — ilk denemede geçtim. Teşekkürler!' },
+      { n:'Lena M.', r:'B sınıfı · Geçti', q:'Araba kullanmaktan gerçekten çekiniyordum. Eğitmenim bu korkuyu tamamen aldı, ilk denemede geçtim. Teşekkürler!' },
       { n:'Yusuf K.', r:'B197 sınıfı · Geçti', q:'Randevular çok esnekti, dersleri işimin yanına rahatça yerleştirebildim. Her şey sakince anlatıldı, Türkçe olarak da.' },
       { n:'Sarah B.', r:'B78 sınıfı · Geçti', q:'Çok iyi organize edilmiş. Teorik dersler hiç sıkıcı değildi ve eğitmenlerin işi gerçekten sevdiği belliydi.' }
     ],
@@ -95,7 +95,7 @@ window.BBi18n.register('tr', {
       { q:'Ehliyeti almam ne kadar sürer?',
         a:'Genellikle üç ila altı ay. Süre, teorik derslere ne sıklıkta katıldığına ve haftada kaç direksiyon dersi aldığına bağlı. Yoğunlaştırılmış kursla çok daha hızlı da olabilir.' },
       { q:'Gerçekte kaç direksiyon dersine ihtiyacım var?',
-        a:'Bu tamamen kişiye bağlı. B sınıfı için yasal olarak zorunlu on iki özel sürüşün yanında çoğu kursiyer 20 ile 35 arasında alıştırma dersi alır. Eğitmenin sınava ne zaman hazır olduğunu dürüstçe söyler — kimseye gereksiz ders satmıyoruz.' },
+        a:'Bu tamamen kişiye bağlı. B sınıfı için yasal olarak zorunlu on iki özel sürüşün yanında çoğu kursiyer 20 ile 35 arasında alıştırma dersi alır. Eğitmenin sınava ne zaman hazır olduğunu dürüstçe söyler, kimseye gereksiz ders satmıyoruz.' },
       { q:'17 yaşında kaydolabilir miyim?',
         a:'Evet. 17 yaşından itibaren refakatli sürüşte (BF17) eğitime 16,5 yaşında başlayabilir, sınava en erken 17. doğum gününden bir ay önce girebilirsin. Sonrasında 18 yaşına kadar kayıtlı bir refakatçiyle araç kullanırsın.' },
       { q:'B ile B197 arasındaki fark nedir?',
@@ -103,44 +103,44 @@ window.BBi18n.register('tr', {
       { q:'Kayıt için hangi belgeler gerekli?',
         a:'Geçerli kimlik kartı veya pasaport, biyometrik fotoğraf, göz testi belgesi ve ilk yardım kursu katılım belgesi. Ehliyet makamına başvuruyu seninle birlikte yapıyoruz.' },
       { q:'Ödemeyi taksitle yapabilir miyim?',
-        a:'Bizde her şeyi tek seferde ödemezsin: temel ücret kayıtta, direksiyon dersleri ise ilerledikçe faturalanır. Farklı bir düzenlemeye ihtiyacın varsa söyle — neredeyse her zaman bir çözüm buluyoruz.' },
+        a:'Bizde her şeyi tek seferde ödemezsin: temel ücret kayıtta, direksiyon dersleri ise ilerledikçe faturalanır. Farklı bir düzenlemeye ihtiyacın varsa söyle, neredeyse her zaman bir çözüm buluyoruz.' },
       { q:'Dersleri başka dillerde de veriyor musunuz?',
-        a:'Evet. Kursiyerlerimize Almanca, İngilizce, Türkçe ve Arapça destek veriyoruz. Resmî teorik sınav birden çok yabancı dilde yapılabiliyor — bize söyle, birlikte hallederiz.' },
+        a:'Evet. Kursiyerlerimize Almanca, İngilizce, Türkçe ve Arapça destek veriyoruz. Resmî teorik sınav birden çok yabancı dilde yapılabiliyor, bize söyle, birlikte hallederiz.' },
       { q:'Sınavda kalırsam ne olur?',
-        a:'Dünyanın sonu değil — birçok kişinin başına gelir. Geçilemeyen sınavdan sonra iki hafta bekleme süresi vardır. Nerede eksik kaldığına birlikte bakar, hedefli çalışır ve seni yeniden kaydederiz.' }
+        a:'Dünyanın sonu değil: birçok kişinin başına gelir. Geçilemeyen sınavdan sonra iki hafta bekleme süresi vardır. Nerede eksik kaldığına birlikte bakar, hedefli çalışır ve seni yeniden kaydederiz.' }
     ],
 
     ctaTitle: 'İlk direksiyon dersine hazır mısın?',
     ctaLead: 'Hiçbir yükümlülük olmadan bize ulaş. Ücretsiz danışmanlık veriyor, tüm sorularını yanıtlıyoruz ve kararı sen rahatça veriyorsun.',
 
-    seoIntroTitle: '{city} sürücü kursu — kişisel, modern ve adil',
-    seoIntro: 'B&B Fahrschule, {city} ve çevresindeki sürücü adaylarına ehliyet yolunda eşlik ediyor. Küçük teorik gruplar, sabit eğitmenler ve sana uyan bir eğitim temposu sunuyoruz. İster otomobil için B sınıfı, ister otomatik vitesli B197, ister sadece otomatik B78 ya da römork yetkisi olsun — kaç derse ihtiyacın olduğuna dair dürüst bir değerlendirme ve tüm masrafların şeffaf bir dökümünü alırsın. Hiçbir yükümlülük olmadan bir danışmanlık görüşmesi için uğrayabilirsin.'
+    seoIntroTitle: '{city} sürücü kursu: kişisel, modern ve adil',
+    seoIntro: 'B&B Fahrschule, {city} ve çevresindeki sürücü adaylarına ehliyet yolunda eşlik ediyor. Küçük teorik gruplar, sabit eğitmenler ve sana uyan bir eğitim temposu sunuyoruz. İster otomobil için B sınıfı, ister otomatik vitesli B197, ister sadece otomatik B78 ya da römork yetkisi olsun, kaç derse ihtiyacın olduğuna dair dürüst bir değerlendirme ve tüm masrafların şeffaf bir dökümünü alırsın. Hiçbir yükümlülük olmadan bir danışmanlık görüşmesi için uğrayabilirsin.'
   },
 
   class: {
-    B:    { short:'B',    name:'B sınıfı — Otomobil',
+    B:    { short:'B',    name:'B sınıfı: Otomobil',
             desc:'Azami yüklü ağırlığı 3,5 tona kadar olan ve sürücü koltuğu dışında en fazla sekiz oturma yeri bulunan araçlar için klasik otomobil ehliyeti.',
             drive:'3,5 tona kadar otomobil · 750 kg’a kadar römork' },
-    B197: { short:'B197', name:'B197 sınıfı — Manuel yetkili otomatik',
-            desc:'Eğitim ve sınav otomatik vitesli araçta — buna rağmen manuel araç da kullanabileceğin tam yetkili bir ehliyet.',
+    B197: { short:'B197', name:'B197 sınıfı: Manuel yetkili otomatik',
+            desc:'Eğitim ve sınav otomatik vitesli araçta: buna rağmen manuel araç da kullanabileceğin tam yetkili bir ehliyet.',
             drive:'B sınıfı gibi, 78 kodu olmadan' },
-    B78:  { short:'B78',  name:'B78 sınıfı — Sadece otomatik',
-            desc:'Eğitim ve sınav otomatik vitesli araçta. Ehliyetine 78 kodu işlenir — bu ehliyetle yalnızca otomatik vitesli araç kullanabilirsin.',
+    B78:  { short:'B78',  name:'B78 sınıfı: Sadece otomatik',
+            desc:'Eğitim ve sınav otomatik vitesli araçta. Ehliyetine 78 kodu işlenir, bu ehliyetle yalnızca otomatik vitesli araç kullanabilirsin.',
             drive:'B sınıfı gibi, sadece otomatik (78 kodu)' },
     BF17: { short:'BF17', name:'17 yaşından itibaren refakatli sürüş',
             desc:'Bir yıl erken başla: Sınavı geçtikten sonra 18 yaşına kadar kayıtlı bir refakatçiyle araç kullanırsın.',
             drive:'B sınıfı gibi, refakatli' },
-    B96:  { short:'B96',  name:'B96 kodu — Römork',
-            desc:'3,5 ile 4,25 ton arasındaki katarlar için sınavsız, bir günlük ek yeterlilik — karavan ve at römorku için ideal.',
+    B96:  { short:'B96',  name:'B96 kodu: Römork',
+            desc:'3,5 ile 4,25 ton arasındaki katarlar için sınavsız, bir günlük ek yeterlilik, karavan ve at römorku için ideal.',
             drive:'Azami 4,25 tona kadar katar' },
-    BE:   { short:'BE',   name:'BE sınıfı — Büyük römork',
+    BE:   { short:'BE',   name:'BE sınıfı: Büyük römork',
             desc:'750 kg üzeri ve 3,5 tona kadar ağır römorklar için. Uygulamalı sınav var, ek teorik ders yok.',
             drive:'Otomobil + 3,5 tona kadar römork' }
   },
 
   classes: {
     metaTitle: 'Ehliyet sınıfları',
-    metaDesc: 'B&B Fahrschule’deki tüm ehliyet sınıfları: B, B197, B78, BF17, B96 ve BE — yaş sınırı, zorunlu dersler ve koşullarla birlikte.',
+    metaDesc: 'B&B Fahrschule’deki tüm ehliyet sınıfları: B, B197, B78, BF17, B96 ve BE, yaş sınırı, zorunlu dersler ve koşullarla birlikte.',
     title: 'Ehliyet sınıflarına genel bakış',
     lead: 'Hangi sınıf sana uygun? Burada her ehliyet için en önemli bilgileri bulacaksın: yaş sınırı, zorunlu özel sürüşler, teorik ders sayısı ve neyi kullanabileceğin.',
     minAge: 'Asgari yaş', years: 'yıl',
@@ -171,7 +171,7 @@ window.BBi18n.register('tr', {
     metaTitle: 'Fiyatlar ve maliyet hesaplayıcı',
     metaDesc: 'B&B Fahrschule’nin şeffaf fiyatları: temel ücret, direksiyon dersi, özel sürüşler ve sınav harçları. Ehliyetinin maliyetini şimdi hesapla.',
     title: 'Fiyatlar ve maliyet hesaplayıcı',
-    lead: 'Bizde seni nelerin beklediğini önceden bilirsin. Aşağıda güncel fiyat listemiz var — üstünde ise ehliyetin için gerçekçi bir toplam tahmin eden bir hesaplayıcı.',
+    lead: 'Bizde seni nelerin beklediğini önceden bilirsin. Aşağıda güncel fiyat listemiz var, üstünde ise ehliyetin için gerçekçi bir toplam tahmin eden bir hesaplayıcı.',
     tableSchool: 'Sürücü kursu hizmetleri',
     tableThird: 'Üçüncü taraf masrafları (sınav kuruluşu, makam, doktor)',
     tableExtras: 'Ek hizmetler',
@@ -195,7 +195,7 @@ window.BBi18n.register('tr', {
       ersteHilfe:'İlk yardım kursu (9 ders saati)',
       passbild:'Biyometrik fotoğraf',
       antrag:'Ehliyet makamı başvuru harcı',
-      b96:'B96 kodu — komple paket',
+      b96:'B96 kodu: komple paket',
       simulator:'Sürüş simülatörü, birim başına',
       intensiv:'Tatil veya yoğunlaştırılmış kurs farkı'
     }
@@ -211,7 +211,7 @@ window.BBi18n.register('tr', {
     lessonsUnit: 'ders',
     opt: {
       firstLicence: { t:'Bu benim ilk ehliyetim', d:'Göz testi, ilk yardım kursu, fotoğraf ve başvuru harcı bu durumda ayrıca eklenir.' },
-      schalt:       { t:'Manuel yetkinliği belgele (B197)', d:'Manuel araçta on ek ders ve bir test sürüşü — sonrasında manuel araç da kullanabilirsin.' },
+      schalt:       { t:'Manuel yetkinliği belgele (B197)', d:'Manuel araçta on ek ders ve bir test sürüşü, sonrasında manuel araç da kullanabilirsin.' },
       sehtest:      { t:'Göz testi hâlâ gerekli', d:'Gözlükçüde veya göz doktorunda, iki yıl geçerli.' },
       ersteHilfe:   { t:'İlk yardım kursu hâlâ gerekli', d:'Dokuz ders saati, süresiz geçerli.' },
       passbild:     { t:'Biyometrik fotoğraf hâlâ gerekli', d:'Ehliyet makamına başvuru için.' },
@@ -240,20 +240,20 @@ window.BBi18n.register('tr', {
     pkg: { B96:'Komple paket, B96 kodu' },
     info: { age:'Asgari yaş {n}', theory:'{n} çift teorik ders',
             special:'{n} zorunlu özel sürüş', noExam:'Uygulamalı sınav yok' },
-    disclaimer: 'Bu hesaplama bağlayıcı olmayan bir tahmindir ve hukuki anlamda bir teklif değildir. Gerçekte kaç direksiyon dersine ihtiyacın olacağını kimse önceden ciddiyetle vaat edemez — bu, öğrenme hızına, önceki deneyimine ve yerel trafik durumuna bağlıdır. TÜV/DEKRA, makam ve doktor için üçüncü taraf masrafları her zaman değişebilir. Her durumda sürücü kursunda asılı olan, Sürücü Eğitmenleri Kanunu’nun 19. maddesine göre hazırlanmış fiyat listesi esastır.'
+    disclaimer: 'Bu hesaplama bağlayıcı olmayan bir tahmindir ve hukuki anlamda bir teklif değildir. Gerçekte kaç direksiyon dersine ihtiyacın olacağını kimse önceden ciddiyetle vaat edemez, bu, öğrenme hızına, önceki deneyimine ve yerel trafik durumuna bağlıdır. TÜV/DEKRA, makam ve doktor için üçüncü taraf masrafları her zaman değişebilir. Her durumda sürücü kursunda asılı olan, Sürücü Eğitmenleri Kanunu’nun 19. maddesine göre hazırlanmış fiyat listesi esastır.'
   },
 
   process: {
     metaTitle: 'Eğitim süreci',
     metaDesc: 'Kayıttan ehliyete: B&B Fahrschule’de sürücü eğitimi adım adım nasıl ilerliyor.',
     title: 'Ehliyete böyle ulaşırsın',
-    lead: 'Ehliyete giden yol net kurallara bağlı — ve bu yolu seninle birlikte yürüyoruz. Burada her adımı, bunun için neye ihtiyacın olduğunu ve yaklaşık ne kadar sürdüğünü görüyorsun.',
+    lead: 'Ehliyete giden yol net kurallara bağlı ve bu yolu seninle birlikte yürüyoruz. Burada her adımı, bunun için neye ihtiyacın olduğunu ve yaklaşık ne kadar sürdüğünü görüyorsun.',
     stepsTitle: 'Sekiz adımda yolun',
     duration:'Süre', youNeed:'İhtiyacın olanlar',
     steps: [
       { t:'Danışmanlık ve kayıt', d:'Ücretsiz bir danışmanlık görüşmesi için uğra. Hangi sınıfın sana uyduğunu, takvimin nasıl olacağını ve maliyetini netleştiririz. Ardından eğitim sözleşmesini doldurursun.', dur:'yaklaşık 30 dakika', need:'Kimlik kartı veya pasaport' },
       { t:'Göz testi ve ilk yardım kursu', d:'Göz testini gözlükçüde, dokuz ders saatlik ilk yardım kursunu yetkili bir kurumda yaparsın. Başvuru için ikisi de gerekli.', dur:'bir öğleden sonra', need:'Göz testi, ilk yardım belgesi, fotoğraf' },
-      { t:'Ehliyet makamına başvuru', d:'Başvuruyu seninle birlikte hazırlar ve yetkili makama sunarız. İşlem şehre göre birkaç hafta sürer — bu yüzden erken başla.', dur:'4 ila 8 hafta işlem süresi', need:'2. adımdaki tüm belgeler' },
+      { t:'Ehliyet makamına başvuru', d:'Başvuruyu seninle birlikte hazırlar ve yetkili makama sunarız. İşlem şehre göre birkaç hafta sürer, bu yüzden erken başla.', dur:'4 ila 8 hafta işlem süresi', need:'2. adımdaki tüm belgeler' },
       { t:'Teorik ders', d:'B sınıfı için on iki çift temel ders ve iki çift sınıfa özgü ek ders zorunludur. Bunun yanında uygulama ve online erişimle çalışırsın.', dur:'3 ila 6 hafta', need:'Eğitim materyali ve erişim bilgileri' },
       { t:'Teorik sınav', d:'Sınava TÜV veya DEKRA’da bilgisayar üzerinden girersin. B sınıfı için en fazla on hata puanın olabilir. Sınav birden çok dilde yapılabilir.', dur:'yaklaşık 45 dakika', need:'Kimlik ve sınav izni' },
       { t:'Uygulamalı eğitim', d:'Şimdi direksiyon başına geçiyorsun. Önce sakin yollarda temel manevralar, sonra şehir trafiği. Eğitmenin dersleri, sürekli daha güvenli hale gelecek şekilde planlar.', dur:'kişiye göre', need:'Onaylanmış ehliyet başvurusu' },
@@ -261,28 +261,28 @@ window.BBi18n.register('tr', {
       { t:'Uygulamalı sınav', d:'TÜV veya DEKRA’dan bir sınav görevlisiyle yaklaşık 45 dakika araç kullanırsın. Her şey yolundaysa ehliyetini hemen ardından alırsın.', dur:'yaklaşık 45 – 55 dakika', need:'Kimlik, sınav izni, göz testi' }
     ],
     tipsTitle: 'İşi hızlandıran ipuçları',
-    tips: ['17 ya da 18 yaşına girmeden kaydol — makamın işlem süresine ihtiyacı var.',
+    tips: ['17 ya da 18 yaşına girmeden kaydol: makamın işlem süresine ihtiyacı var.',
            'Teorik dersleri aylara yaymak yerine mümkün olduğunca ardışık al.',
            'Haftada bir kez iki saat yerine her gün on dakika uygulamayla çalış.',
-           'Haftada en az iki direksiyon dersi al — yoksa aradaki boşlukta güvenini kaybedersin.',
+           'Haftada en az iki direksiyon dersi al: yoksa aradaki boşlukta güvenini kaybedersin.',
            'Özel sürüşleri şehir trafiğinde güvenli hale gelene kadar erteleme.'],
     ctaTitle: 'Süreçle ilgili sorun mu var?',
-    ctaLead: 'Sırada ne olduğunu memnuniyetle açıklarız — telefonla, WhatsApp’tan ya da doğrudan büromuzda.'
+    ctaLead: 'Sırada ne olduğunu memnuniyetle açıklarız, telefonla, WhatsApp’tan ya da doğrudan büromuzda.'
   },
 
   about: {
     metaTitle: 'Hakkımızda',
     metaDesc: 'B&B Fahrschule kendini tanıtıyor: deneyimli eğitmenler, modern araçlar ve dört dilde eğitim.',
     title: 'B&B Fahrschule hakkında',
-    lead: 'Kursiyerlerine zaman ayıran, sahibi tarafından yönetilen bir sürücü kursuyuz. Seri üretim değil, sürekli değişen eğitmenler değil — ilk görüşmeden sınavı geçtiğin güne kadar kişisel ilgi.',
+    lead: 'Kursiyerlerine zaman ayıran, sahibi tarafından yönetilen bir sürücü kursuyuz. Seri üretim değil, sürekli değişen eğitmenler değil, ilk görüşmeden sınavı geçtiğin güne kadar kişisel ilgi.',
     storyTitle: 'Hikâyemiz',
-    storyText: 'İki araçla ve sürücü kursunun da rahat olabileceği inancıyla başladık. O günden bu yana birçok kursiyere eşlik ettik — ilk kez kendi başına hareket etmeye hazırlanan gençlere olduğu kadar, ehliyeti sonradan alan yetişkinlere de. Değişmeyen şey: zamanımızı ayırıyoruz, açık konuşuyoruz ve kimseye ihtiyacı olmayan ders satmıyoruz.',
+    storyText: 'İki araçla ve sürücü kursunun da rahat olabileceği inancıyla başladık. O günden bu yana birçok kursiyere eşlik ettik, ilk kez kendi başına hareket etmeye hazırlanan gençlere olduğu kadar, ehliyeti sonradan alan yetişkinlere de. Değişmeyen şey: zamanımızı ayırıyoruz, açık konuşuyoruz ve kimseye ihtiyacı olmayan ders satmıyoruz.',
     valuesTitle: 'Neyi savunuyoruz',
     values: [
-      { t:'Sabır', d:'Herkes farklı hızda öğrenir. Burada sinirlenme ya da baskı yok — ihtiyacın kadar açıklama var.' },
+      { t:'Sabır', d:'Herkes farklı hızda öğrenir. Burada sinirlenme ya da baskı yok, ihtiyacın kadar açıklama var.' },
       { t:'Dürüstlük', d:'Sınava ne zaman hazır olduğunu açıkça söyleriz. Bu, daha az kazanmamız anlamına gelse bile.' },
       { t:'Güvenlik', d:'Sınav için değil, sonrasındaki gerçek hayat için eğitiyoruz. Buna tehlike algısı ve öngörülü sürüş de dahil.' },
-      { t:'Açıklık', d:'Burada herkes hoş karşılanır — kökeni, yaşı veya dili ne olursa olsun. Almanca, İngilizce, Türkçe ve Arapça destek veriyoruz.' }
+      { t:'Açıklık', d:'Burada herkes hoş karşılanır: kökeni, yaşı veya dili ne olursa olsun. Almanca, İngilizce, Türkçe ve Arapça destek veriyoruz.' }
     ],
     teamTitle: 'Ekibin',
     teamLead: 'Küçük bir ekibiz ve hepimizi tanıyacaksın. Eğitmenin, eğitim boyunca aynı kişi olarak kalır.',
@@ -294,7 +294,7 @@ window.BBi18n.register('tr', {
     teamNote: 'Ekip bilgileri henüz yer tutucudur ve yayına almadan önce gerçek kişilerle değiştirilecektir.',
     fleetTitle: 'Araçlarımız',
     ctaTitle: 'Bizi tanı',
-    ctaLead: 'Bir sürücü kursunu değerlendirmenin en iyi yolu, gelip görmektir. Büro saatlerinde uğra — randevu gerekmez.'
+    ctaLead: 'Bir sürücü kursunu değerlendirmenin en iyi yolu, gelip görmektir. Büro saatlerinde uğra, randevu gerekmez.'
   },
 
   contact: {
@@ -305,7 +305,7 @@ window.BBi18n.register('tr', {
     addressTitle:'Adres', phoneTitle:'Telefon', mobileTitle:'Cep ve WhatsApp', mailTitle:'E-posta',
     hoursTitle:'Çalışma saatleri', theoryTitle:'Teorik ders', directions:'Yol tarifi al',
     formTitle:'Bize yazın',
-    formLead:'Formu doldurman yeterli — genellikle bir iş günü içinde geri dönüyoruz.',
+    formLead:'Formu doldurman yeterli: genellikle bir iş günü içinde geri dönüyoruz.',
     mapTitle:'B&B Fahrschule konumu',
     mapConsent:'Harita yüklenirken IP adresin dahil olmak üzere veriler harita sağlayıcısına aktarılır. Harita yalnızca sen tıkladıktan sonra yüklenir.',
     mapLoad:'Haritayı yükle',
@@ -330,7 +330,7 @@ window.BBi18n.register('tr', {
   },
 
   footer: {
-    about:'Tüm yaygın ehliyet sınıfları için sürücü kursun — kişisel, modern ve adil fiyatlı.',
+    about:'Tüm yaygın ehliyet sınıfları için sürücü kursun, kişisel, modern ve adil fiyatlı.',
     navTitle:'Sürücü kursu', legalTitle:'Hukuki', contactTitle:'İletişim',
     devCredit: 'Web sitesi geliştirme', rights:'Tüm hakları saklıdır.', socialTitle:'Bizi takip et',
     madeNote:'Bu web sitesi takip çerezi içermez.'
@@ -432,9 +432,9 @@ window.BBi18n.register('tr', {
           '<p>Günlük dosyaları, somut bir kötüye kullanım vakasının aydınlatılması için gerekmedikçe kural olarak en geç yedi gün sonra silinir.</p>' },
         { h:'Tarayıcıda yerel depolama', html:
           '<p>Bu web sitesi takip çerezi kullanmaz. Temel işlevler için tarayıcınızın yerel deposunu (Local Storage) kullanıyoruz. Orada yalnızca şu bilgiler saklanır:</p>' +
-          '<ul><li><strong>bb-lang</strong> — seçtiğiniz dil, bir sonraki ziyaretinizde sayfanın aynı dilde açılması için</li>' +
-          '<li><strong>bb-map-consent</strong> — harita görünümünü yükleme kararınız</li>' +
-          '<li><strong>bb-consent</strong> — etkinleştirilmişse istatistik toplamaya ilişkin kararınız</li></ul>' +
+          '<ul><li><strong>bb-lang</strong>: seçtiğiniz dil, bir sonraki ziyaretinizde sayfanın aynı dilde açılması için</li>' +
+          '<li><strong>bb-map-consent</strong>: harita görünümünü yükleme kararınız</li>' +
+          '<li><strong>bb-consent</strong>: etkinleştirilmişse istatistik toplamaya ilişkin kararınız</li></ul>' +
           '<p>Bu bilgiler yalnızca cihazınızda kalır ve bize ya da üçüncü kişilere aktarılmaz. Açıkça talep ettiğiniz bir işlev söz konusu olduğundan, saklama Alman Telekomünikasyon Dijital Hizmetler Veri Koruma Kanunu’nun (TDDDG) 25. madde 2. fıkra 2. bendi uyarınca onay gerektirmez. Saklanan bilgileri tarayıcınızın ayarlarından istediğiniz zaman silebilirsiniz.</p>' },
         { h:'Bizimle iletişime geçme', html:
           '<h3>İletişim formu</h3>' +
@@ -473,12 +473,12 @@ window.BBi18n.register('tr', {
           '<p>Haklı bir silme talebinde bulunur veya onayınızı geri alırsanız, saklama için hukuken kabul edilebilir başka bir sebep yoksa verileriniz silinir.</p>' },
         { h:'İlgili kişi olarak haklarınız', html:
           '<p>Kişisel verilerinizle ilgili olarak bize karşı aşağıdaki haklara sahipsiniz:</p>' +
-          '<ul><li><strong>Bilgi edinme</strong> (GDPR 15. madde) — hakkınızda hangi verileri işlediğimizi öğrenmeyi talep edebilirsiniz.</li>' +
-          '<li><strong>Düzeltme</strong> (GDPR 16. madde) — yanlış verilerin düzeltilmesini veya eksik verilerin tamamlanmasını talep edebilirsiniz.</li>' +
-          '<li><strong>Silme</strong> (GDPR 17. madde) — yasal saklama yükümlülükleri engel değilse verilerinizin silinmesini talep edebilirsiniz.</li>' +
+          '<ul><li><strong>Bilgi edinme</strong> (GDPR 15. madde): hakkınızda hangi verileri işlediğimizi öğrenmeyi talep edebilirsiniz.</li>' +
+          '<li><strong>Düzeltme</strong> (GDPR 16. madde): yanlış verilerin düzeltilmesini veya eksik verilerin tamamlanmasını talep edebilirsiniz.</li>' +
+          '<li><strong>Silme</strong> (GDPR 17. madde): yasal saklama yükümlülükleri engel değilse verilerinizin silinmesini talep edebilirsiniz.</li>' +
           '<li><strong>İşlemenin kısıtlanması</strong> (GDPR 18. madde)</li>' +
-          '<li><strong>Veri taşınabilirliği</strong> (GDPR 20. madde) — verilerinizin yapılandırılmış, yaygın ve makine tarafından okunabilir bir formatta verilmesi.</li>' +
-          '<li><strong>Onayın geri alınması</strong> (GDPR 7. madde 3. fıkra) — gelecek için geçerli olmak üzere istediğiniz zaman.</li></ul>' +
+          '<li><strong>Veri taşınabilirliği</strong> (GDPR 20. madde): verilerinizin yapılandırılmış, yaygın ve makine tarafından okunabilir bir formatta verilmesi.</li>' +
+          '<li><strong>Onayın geri alınması</strong> (GDPR 7. madde 3. fıkra): gelecek için geçerli olmak üzere istediğiniz zaman.</li></ul>' +
           '<p>Bu hakları kullanmak için „Sorumlu" bölümünde belirtilen iletişim bilgilerine gönderilecek şekilsiz bir mesaj yeterlidir.</p>' },
         { h:'GDPR 21. madde uyarınca itiraz hakkı', html:
           '<p><strong>Veri işleme GDPR 6. madde 1. fıkra (e) veya (f) bendine dayanıyorsa, özel durumunuzdan kaynaklanan sebeplerle kişisel verilerinizin işlenmesine istediğiniz zaman itiraz etme hakkına sahipsiniz.</strong></p>' +
