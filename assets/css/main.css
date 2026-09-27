@@ -577,6 +577,11 @@ body[data-navopen="true"]{overflow:hidden}
   border-block-start:1px solid var(--ink-700); display:flex; flex-wrap:wrap;
   gap:.6rem 1.5rem; align-items:center; justify-content:space-between; font-size:var(--fs-xs)}
 .footer__bar nav{display:flex; flex-wrap:wrap; gap:.6rem 1.25rem}
+.footer__credit{display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:.4rem .75rem;
+  padding-block:1rem 1.5rem; border-block-start:1px solid var(--ink-700); font-size:var(--fs-xs); color:#7D8591}
+.footer__credit a{display:inline-grid; place-items:center; color:#9AA2AE}
+.footer__credit svg{inline-size:18px; block-size:18px}
+.footer__credit-sep{opacity:.5}
 
 /* ------------------------------------------------------- 12 · RECHT/LEGAL */
 .pagehead{background:var(--paper-2); border-block-end:1px solid var(--line);

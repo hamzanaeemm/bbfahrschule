@@ -382,7 +382,7 @@ window.BBi18n.register('de', {
   footer: {
     about: 'Deine Fahrschule für alle gängigen Führerscheinklassen — persönlich, modern und mit fairen Preisen.',
     navTitle: 'Fahrschule', legalTitle: 'Rechtliches', contactTitle: 'Kontakt',
-    rights: 'Alle Rechte vorbehalten.',
+    devCredit: 'Website-Entwicklung', rights: 'Alle Rechte vorbehalten.',
     socialTitle: 'Folge uns',
     madeNote: 'Diese Website enthält keine Tracking-Cookies.'
   },

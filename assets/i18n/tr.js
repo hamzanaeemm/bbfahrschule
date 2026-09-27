@@ -332,7 +332,7 @@ window.BBi18n.register('tr', {
   footer: {
     about:'Tüm yaygın ehliyet sınıfları için sürücü kursun — kişisel, modern ve adil fiyatlı.',
     navTitle:'Sürücü kursu', legalTitle:'Hukuki', contactTitle:'İletişim',
-    rights:'Tüm hakları saklıdır.', socialTitle:'Bizi takip et',
+    devCredit: 'Web sitesi geliştirme', rights:'Tüm hakları saklıdır.', socialTitle:'Bizi takip et',
     madeNote:'Bu web sitesi takip çerezi içermez.'
   },
 

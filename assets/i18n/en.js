@@ -332,7 +332,7 @@ window.BBi18n.register('en', {
   footer: {
     about:'Your driving school for every common licence category — personal, modern and fairly priced.',
     navTitle:'Driving school', legalTitle:'Legal', contactTitle:'Contact',
-    rights:'All rights reserved.', socialTitle:'Follow us',
+    devCredit: 'Website development', rights:'All rights reserved.', socialTitle:'Follow us',
     madeNote:'This website contains no tracking cookies.'
   },
 
