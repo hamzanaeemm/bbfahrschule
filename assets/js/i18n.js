@@ -208,7 +208,7 @@
 
       // <title> und meta description
       var tk = d.documentElement.getAttribute('data-title-key');
-      if (tk) d.title = api.t(tk) + ' | ' + (CFG.business ? clean(CFG.business.name) : 'BBFahrschule');
+      if (tk) d.title = api.t(tk) + ' | ' + (CFG.business ? clean(CFG.business.name) : 'B&B Fahrschule');
       var dk = d.documentElement.getAttribute('data-desc-key');
       if (dk) {
         var m = d.querySelector('meta[name="description"]');

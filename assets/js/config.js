@@ -12,19 +12,19 @@ window.BB_CONFIG = {
 
   /* ---------------------------------------------------------------- Firma */
   business: {
-    name:        'BBFahrschule',
-    legalName:   '[PLACEHOLDER] BBFahrschule — Inhaber Max Mustermann e. K.',
+    name:        'B&B Fahrschule',
+    legalName:   '[PLACEHOLDER] B&B Fahrschule — Inhaber Max Mustermann e. K.',
     owner:       '[PLACEHOLDER] Max Mustermann',
     tagline_key: 'brand.tagline',
     founded:     '[PLACEHOLDER] 2015',
     // Einziger Standort: Koblenz. Theorieunterricht und Fahrstunden finden
     // ausschließlich hier statt.
-    street:      '[PLACEHOLDER] Musterstraße 12',
-    zip:         '[PLACEHOLDER] 56068',
+    street:      'Löhrstraße 101',
+    zip:         '56068',
     city:        'Koblenz',
     country:     'Deutschland',
-    phone:       '[PLACEHOLDER] +49 261 1234567',
-    mobile:      '[PLACEHOLDER] +49 151 12345678',
+    phone:       '015563133338',
+    mobile:      '015222333390',
     whatsapp:    '[PLACEHOLDER] +4915112345678',   // nur Ziffern, mit Ländercode
     email:       '[PLACEHOLDER] info@bbfahrschule.de',
     website:     '[PLACEHOLDER] https://www.bbfahrschule.de',
@@ -88,7 +88,7 @@ window.BB_CONFIG = {
     enabled: true,
     // Google-Maps-Embed-URL (Menü „Teilen“ → „Karte einbetten“) oder OSM-Embed
     embedUrl: '[PLACEHOLDER] https://www.openstreetmap.org/export/embed.html?bbox=7.56%2C50.34%2C7.63%2C50.38&layer=mapnik',
-    directionsUrl: '[PLACEHOLDER] https://www.google.com/maps/dir/?api=1&destination=Musterstra%C3%9Fe+12+56068+Koblenz',
+    directionsUrl: 'https://www.google.com/maps/dir/?api=1&destination=L%C3%B6hrstra%C3%9Fe+101+56068+Koblenz',
   },
 
   /* ------------------------------------------------------------- Analytics
@@ -133,7 +133,6 @@ window.BB_CONFIG = {
       bf17Zuschlag:        0.00,  // [PLACEHOLDER] Aufschlag Begleitetes Fahren ab 17
       schaltkompetenzB197: 0.00,  // [PLACEHOLDER] Pauschale für den B197-Nachweis
       b96Paket:          490.00,  // [PLACEHOLDER] Komplettpreis Schlüsselzahl B96
-      mofaPaket:         290.00,  // [PLACEHOLDER] Komplettpreis Mofa-Prüfbescheinigung
       simulatorStunde:    39.00,  // [PLACEHOLDER] Fahrsimulator je Einheit
       intensivZuschlag:  180.00,  // [PLACEHOLDER] Ferien-/Intensivkurs Aufschlag
     },
@@ -159,6 +158,11 @@ window.BB_CONFIG = {
       theory:  { basic: 12, specific: 2 },
       examFee: 155.00, schaltLessons: 10, popular: true },
 
+    { id: 'B78', minAge: 18, avgLessons: 25, minLessons: 5, maxLessons: 60,
+      special: { ueberland: 5, autobahn: 4, nacht: 3 },
+      theory:  { basic: 12, specific: 2 },
+      examFee: 155.00 },
+
     { id: 'BF17', minAge: 17, avgLessons: 25, minLessons: 5, maxLessons: 60,
       special: { ueberland: 5, autobahn: 4, nacht: 3 },
       theory:  { basic: 12, specific: 2 },
@@ -172,29 +176,6 @@ window.BB_CONFIG = {
       special: { ueberland: 3, autobahn: 1, nacht: 1 },
       theory:  { basic: 0, specific: 0 },
       examFee: 190.00 },
-
-    { id: 'A',   minAge: 24, avgLessons: 18, minLessons: 5, maxLessons: 50,
-      special: { ueberland: 5, autobahn: 4, nacht: 3 },
-      theory:  { basic: 12, specific: 4 },
-      examFee: 150.00 },
-
-    { id: 'A2',  minAge: 18, avgLessons: 18, minLessons: 5, maxLessons: 50,
-      special: { ueberland: 5, autobahn: 4, nacht: 3 },
-      theory:  { basic: 12, specific: 4 },
-      examFee: 150.00 },
-
-    { id: 'A1',  minAge: 16, avgLessons: 16, minLessons: 5, maxLessons: 50,
-      special: { ueberland: 5, autobahn: 4, nacht: 3 },
-      theory:  { basic: 12, specific: 4 },
-      examFee: 150.00 },
-
-    { id: 'AM',  minAge: 15, avgLessons: 8, minLessons: 0, maxLessons: 30,
-      special: {}, theory: { basic: 12, specific: 2 },
-      examFee: 120.00 },
-
-    { id: 'MOFA', minAge: 15, avgLessons: 0, minLessons: 0, maxLessons: 0,
-      special: {}, theory: { basic: 0, specific: 6 },
-      examFee: 0, fixedPackage: 'mofaPaket', noExam: true },
   ],
 
   /* ------------------------------------------------------------------ i18n */

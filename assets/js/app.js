@@ -402,7 +402,6 @@
       ],
       extras: [
         ['b96',       ex.b96Paket],
-        ['mofa',      ex.mofaPaket],
         ['simulator', ex.simulatorStunde],
         ['intensiv',  ex.intensivZuschlag]
       ]

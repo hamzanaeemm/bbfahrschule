@@ -1,4 +1,4 @@
-/* BBFahrschule — Deutsch (Standardsprache, maßgeblich für alle Rechtstexte) */
+/* B&B Fahrschule — Deutsch (Standardsprache, maßgeblich für alle Rechtstexte) */
 window.BBi18n.register('de', {
 
   brand: {
@@ -26,7 +26,7 @@ window.BBi18n.register('de', {
            theory:'Theorieunterricht', today:'Heute' },
 
   a11y: { langSwitch:'Sprache wählen', toTop:'Nach oben', skip:'Zum Inhalt springen',
-          logo:'Logo BBFahrschule', car:'Schulfahrzeug VW T-Roc R-Line' },
+          logo:'Logo B&B Fahrschule', car:'Schulfahrzeug VW T-Roc' },
 
   dev: { placeholders:'Platzhalter in assets/js/config.js noch nicht ersetzt — vor dem Livegang anpassen.',
          hide:'Ausblenden' },
@@ -34,17 +34,17 @@ window.BBi18n.register('de', {
   /* ------------------------------------------------------------ Startseite */
   home: {
     metaTitle: 'Führerschein machen',
-    metaDesc: 'BBFahrschule — moderne Fahrschule mit erfahrenen Fahrlehrern. Führerschein Klasse B, B197, A, AM und mehr. Jetzt Kosten berechnen und anmelden.',
+    metaDesc: 'B&B Fahrschule — moderne Fahrschule mit erfahrenen Fahrlehrern. Führerschein Klasse B, B197, B78, BF17 und mehr. Jetzt Kosten berechnen und anmelden.',
     heroEyebrow: 'Fahrschule in {city}',
-    heroTitle: 'Dein Führerschein.<br>Ohne <em>Umwege</em>.',
+    heroTitle: 'Hol dir <em>jetzt</em> deinen Führerschein.',
     heroLead: 'Persönliche Betreuung, moderne Fahrzeuge und flexible Termine. Bei uns lernst du entspannt Auto fahren — vom ersten Theorieabend bis zur bestandenen Prüfung.',
     trust: { students:'Fahrschüler', pass:'Bestehensquote', years:'Jahre Erfahrung', rating:'Bewertung' },
-    heroPlate: 'Ausbildung im VW T-Roc R-Line — Automatik & Schaltgetriebe',
+    heroPlate: 'Ausbildung im VW T-Roc — Automatik & Schaltgetriebe',
 
     barItems: ['Kostenlose Erstberatung', 'Theorie auch online lernen',
                'Fahrstunden ab Wunschort', 'Ausbildung in 4 Sprachen'],
 
-    uspEyebrow: 'Warum BBFahrschule',
+    uspEyebrow: 'Warum B&B Fahrschule',
     uspTitle: 'Eine Fahrschule, die sich nach dir richtet',
     uspLead: 'Wir wissen: Schule, Ausbildung oder Job lassen wenig Luft. Deshalb ist bei uns alles darauf ausgelegt, dass du schnell und ohne Stress zum Führerschein kommst.',
     usp: [
@@ -58,7 +58,7 @@ window.BBi18n.register('de', {
 
     classesEyebrow: 'Führerscheinklassen',
     classesTitle: 'Welcher Führerschein soll es sein?',
-    classesLead: 'Auto, Motorroller, Motorrad oder Anhänger — wir bilden in allen gängigen Klassen aus und beraten dich, welche wirklich zu dir passt.',
+    classesLead: 'Auto oder Anhänger, Automatik oder Schaltgetriebe — wir bilden in allen gängigen Pkw-Klassen aus und beraten dich, welche wirklich zu dir passt.',
 
     stepsEyebrow: 'So läuft es ab',
     stepsTitle: 'In fünf Schritten zum Führerschein',
@@ -79,7 +79,7 @@ window.BBi18n.register('de', {
                   'Sofort sichtbar, keine E-Mail nötig'],
 
     fleetEyebrow: 'Unsere Fahrzeuge',
-    fleetTitle: 'Lernen im VW T-Roc R-Line',
+    fleetTitle: 'Lernen im VW T-Roc',
     fleetLead: 'Unser Schulfahrzeug ist übersichtlich, sicher und angenehm zu fahren — ideal für die ersten Stunden und stark genug für Autobahn und Überland.',
     fleetList: ['Rückfahrkamera und Parksensoren', 'Abstands- und Spurhalteassistent',
                 'Klimaautomatik und höhenverstellbare Sitze', 'Automatik- und Schaltvariante verfügbar',
@@ -90,7 +90,7 @@ window.BBi18n.register('de', {
     reviews: [
       { n:'Lena M.', r:'Klasse B · Bestanden', q:'Ich hatte echt Respekt vor dem Autofahren. Mein Fahrlehrer hat mir die Angst komplett genommen — beim ersten Versuch bestanden. Danke!' },
       { n:'Yusuf K.', r:'Klasse B197 · Bestanden', q:'Termine waren super flexibel, ich konnte die Fahrstunden gut neben der Arbeit legen. Erklärt wurde alles in Ruhe, auch auf Türkisch.' },
-      { n:'Sarah B.', r:'Klasse A2 · Bestanden', q:'Sehr gut organisiert. Der Theorieunterricht war nie langweilig und man hat gemerkt, dass die Fahrlehrer wirklich Lust auf den Job haben.' }
+      { n:'Sarah B.', r:'Klasse B78 · Bestanden', q:'Sehr gut organisiert. Der Theorieunterricht war nie langweilig und man hat gemerkt, dass die Fahrlehrer wirklich Lust auf den Job haben.' }
     ],
 
     faqEyebrow: 'Häufige Fragen',
@@ -118,7 +118,7 @@ window.BBi18n.register('de', {
     ctaLead: 'Melde dich unverbindlich bei uns. Wir beraten dich kostenlos, beantworten alle Fragen und du entscheidest in Ruhe.',
 
     seoIntroTitle: 'Fahrschule in {city} — persönlich, modern und fair',
-    seoIntro: 'Die BBFahrschule begleitet Fahranfängerinnen und Fahranfänger in {city} und Umgebung auf dem Weg zum Führerschein. Wir setzen auf kleine Theoriegruppen, feste Fahrlehrer und ein Ausbildungstempo, das zu dir passt. Ob Klasse B fürs Auto, B197 mit Automatik, Motorrad ab Klasse A1 oder die Erweiterung um einen Anhänger — bei uns bekommst du eine ehrliche Einschätzung, wie viele Stunden du brauchst, und eine transparente Aufstellung aller Kosten. Komm gerne unverbindlich zu einem Beratungsgespräch vorbei.'
+    seoIntro: 'Die B&B Fahrschule begleitet Fahranfängerinnen und Fahranfänger in {city} und Umgebung auf dem Weg zum Führerschein. Wir setzen auf kleine Theoriegruppen, feste Fahrlehrer und ein Ausbildungstempo, das zu dir passt. Ob Klasse B fürs Auto, B197 mit Automatik, B78 nur Automatik oder die Erweiterung um einen Anhänger — bei uns bekommst du eine ehrliche Einschätzung, wie viele Stunden du brauchst, und eine transparente Aufstellung aller Kosten. Komm gerne unverbindlich zu einem Beratungsgespräch vorbei.'
   },
 
   /* ----------------------------------------------------- Klassen (Stammdaten) */
@@ -129,6 +129,9 @@ window.BBi18n.register('de', {
     B197: { short:'B197', name:'Klasse B197 — Automatik mit Schaltberechtigung',
             desc:'Ausbildung und Prüfung im Automatikfahrzeug — und trotzdem ein vollwertiger Führerschein, mit dem du auch Schaltwagen fahren darfst.',
             drive:'Wie Klasse B, ohne Schlüsselzahl 78' },
+    B78:  { short:'B78',  name:'Klasse B78 — nur Automatik',
+            desc:'Ausbildung und Prüfung im Automatikfahrzeug. Im Führerschein wird die Schlüsselzahl 78 eingetragen — du darfst damit ausschließlich Automatikfahrzeuge fahren.',
+            drive:'Wie Klasse B, nur Automatik (Schlüsselzahl 78)' },
     BF17: { short:'BF17', name:'Begleitetes Fahren ab 17',
             desc:'Ein Jahr früher starten: Nach bestandener Prüfung fährst du bis zum 18. Geburtstag in Begleitung einer eingetragenen Person.',
             drive:'Wie Klasse B, in Begleitung' },
@@ -137,28 +140,13 @@ window.BBi18n.register('de', {
             drive:'Zug bis 4,25 t zulässige Gesamtmasse' },
     BE:   { short:'BE',   name:'Klasse BE — großer Anhänger',
             desc:'Für schwerere Anhänger über 750 kg bis 3,5 t. Mit praktischer Prüfung, aber ohne zusätzlichen Theorieunterricht.',
-            drive:'Pkw + Anhänger bis 3,5 t' },
-    A:    { short:'A',    name:'Klasse A — Motorrad unbegrenzt',
-            desc:'Motorräder ohne Leistungsbegrenzung. Direkteinstieg ab 24 Jahren oder ab 20 Jahren nach zwei Jahren Vorbesitz der Klasse A2.',
-            drive:'Krafträder ohne Leistungsgrenze' },
-    A2:   { short:'A2',   name:'Klasse A2 — Motorrad bis 35 kW',
-            desc:'Der Einstieg für alle ab 18: Motorräder bis 35 kW Leistung und einem Leistungsgewicht von höchstens 0,2 kW/kg.',
-            drive:'Krafträder bis 35 kW' },
-    A1:   { short:'A1',   name:'Klasse A1 — Leichtkraftrad',
-            desc:'Ab 16 Jahren: Motorräder bis 125 cm³ und 11 kW. Ideal als erster Schritt Richtung A2 und A.',
-            drive:'Krafträder bis 125 cm³ / 11 kW' },
-    AM:   { short:'AM',   name:'Klasse AM — Roller & Moped',
-            desc:'Zweirädrige Kleinkrafträder bis 45 km/h. Der schnellste Weg zur eigenen Mobilität im Stadtverkehr.',
-            drive:'Roller und Mopeds bis 45 km/h' },
-    MOFA: { short:'Mofa', name:'Mofa-Prüfbescheinigung',
-            desc:'Für einspurige Fahrzeuge bis 25 km/h. Theorieunterricht, praktische Übung und eine theoretische Prüfung — kein Führerschein im engeren Sinn.',
-            drive:'Mofas bis 25 km/h' }
+            drive:'Pkw + Anhänger bis 3,5 t' }
   },
 
   /* -------------------------------------------------------- Klassen-Seite */
   classes: {
     metaTitle: 'Führerscheinklassen',
-    metaDesc: 'Alle Führerscheinklassen bei der BBFahrschule: Klasse B, B197, BF17, B96, BE, A, A2, A1, AM und Mofa — mit Mindestalter, Pflichtstunden und Voraussetzungen.',
+    metaDesc: 'Alle Führerscheinklassen bei der B&B Fahrschule: Klasse B, B197, B78, BF17, B96 und BE — mit Mindestalter, Pflichtstunden und Voraussetzungen.',
     title: 'Führerscheinklassen im Überblick',
     lead: 'Welche Klasse passt zu dir? Hier findest du zu jedem Führerschein die wichtigsten Eckdaten: Mindestalter, vorgeschriebene Sonderfahrten, Theorieumfang und was du damit fahren darfst.',
     minAge: 'Mindestalter',
@@ -189,7 +177,7 @@ window.BBi18n.register('de', {
   /* ------------------------------------------------------------ Preisseite */
   prices: {
     metaTitle: 'Preise & Kostenrechner',
-    metaDesc: 'Transparente Preise der BBFahrschule: Grundbetrag, Fahrstunde, Sonderfahrten und Prüfungsgebühren. Jetzt individuelle Kosten für deinen Führerschein berechnen.',
+    metaDesc: 'Transparente Preise der B&B Fahrschule: Grundbetrag, Fahrstunde, Sonderfahrten und Prüfungsgebühren. Jetzt individuelle Kosten für deinen Führerschein berechnen.',
     title: 'Preise & Kostenrechner',
     lead: 'Bei uns weißt du vorher, was auf dich zukommt. Unten findest du unsere aktuelle Preisliste — und darüber einen Rechner, der dir eine realistische Gesamtsumme für deinen Führerschein schätzt.',
     tableSchool: 'Leistungen der Fahrschule',
@@ -218,7 +206,6 @@ window.BBi18n.register('de', {
       passbild: 'Biometrisches Passbild',
       antrag: 'Antragsgebühr Führerscheinstelle',
       b96: 'Schlüsselzahl B96 — Komplettpaket',
-      mofa: 'Mofa-Prüfbescheinigung — Komplettpaket',
       simulator: 'Fahrsimulator je Einheit',
       intensiv: 'Aufschlag Ferien- oder Intensivkurs'
     }
@@ -265,7 +252,7 @@ window.BBi18n.register('de', {
       antrag:'Antragsgebühr Behörde',
       retrySchool:'Puffer: zweites Vorstellungsentgelt', retryFee:'Puffer: zweite Prüfungsgebühr'
     },
-    pkg: { B96:'Komplettpaket Schlüsselzahl B96', MOFA:'Komplettpaket Mofa-Prüfbescheinigung' },
+    pkg: { B96:'Komplettpaket Schlüsselzahl B96' },
 
     info: { age:'Mindestalter {n} Jahre', theory:'{n} Doppelstunden Theorie',
             special:'{n} Pflicht-Sonderfahrten', noExam:'Ohne praktische Prüfung' },
@@ -276,7 +263,7 @@ window.BBi18n.register('de', {
   /* ------------------------------------------------------------ Ablauf */
   process: {
     metaTitle: 'Ablauf der Fahrausbildung',
-    metaDesc: 'Von der Anmeldung bis zum Führerschein: So läuft die Fahrausbildung bei der BBFahrschule Schritt für Schritt ab.',
+    metaDesc: 'Von der Anmeldung bis zum Führerschein: So läuft die Fahrausbildung bei der B&B Fahrschule Schritt für Schritt ab.',
     title: 'So kommst du zum Führerschein',
     lead: 'Der Weg zum Führerschein ist klar geregelt — und wir gehen ihn gemeinsam mit dir. Hier siehst du jeden Schritt, was du dafür brauchst und wie lange es ungefähr dauert.',
     stepsTitle: 'Dein Weg in acht Schritten',
@@ -321,11 +308,11 @@ window.BBi18n.register('de', {
   /* ----------------------------------------------------------- Über uns */
   about: {
     metaTitle: 'Über uns',
-    metaDesc: 'Die BBFahrschule stellt sich vor: erfahrene Fahrlehrer, moderne Fahrzeuge und eine Ausbildung in vier Sprachen.',
-    title: 'Über die BBFahrschule',
+    metaDesc: 'Die B&B Fahrschule stellt sich vor: erfahrene Fahrlehrer, moderne Fahrzeuge und eine Ausbildung in vier Sprachen.',
+    title: 'Über die B&B Fahrschule',
     lead: 'Wir sind eine inhabergeführte Fahrschule, die sich Zeit für ihre Fahrschüler nimmt. Kein Massenbetrieb, keine wechselnden Fahrlehrer — sondern persönliche Betreuung vom ersten Gespräch bis zur bestandenen Prüfung.',
     storyTitle: 'Unsere Geschichte',
-    storyText: 'Angefangen haben wir mit einem Fahrzeug und der Überzeugung, dass Fahrschule auch entspannt gehen kann. Seitdem haben wir hunderte Fahrschülerinnen und Fahrschüler begleitet — junge Menschen auf dem Weg zur ersten eigenen Mobilität genauso wie Erwachsene, die den Führerschein später nachholen. Was sich nicht geändert hat: Wir nehmen uns Zeit, wir reden Klartext, und wir verkaufen niemandem Fahrstunden, die er nicht braucht.',
+    storyText: 'Angefangen haben wir mit zwei Fahrzeugen und der Überzeugung, dass Fahrschule auch entspannt gehen kann. Seitdem haben wir viele Fahrschülerinnen und Fahrschüler begleitet — junge Menschen auf dem Weg zur ersten eigenen Mobilität genauso wie Erwachsene, die den Führerschein später nachholen. Was sich nicht geändert hat: Wir nehmen uns Zeit, wir reden Klartext, und wir verkaufen niemandem Fahrstunden, die er nicht braucht.',
     valuesTitle: 'Wofür wir stehen',
     values: [
       { t:'Geduld', d:'Jeder lernt anders schnell. Bei uns gibt es kein Genervtsein und keinen Druck — sondern so viele Erklärungen, wie du brauchst.' },
@@ -349,7 +336,7 @@ window.BBi18n.register('de', {
   /* ------------------------------------------------------------- Kontakt */
   contact: {
     metaTitle: 'Kontakt',
-    metaDesc: 'Kontakt zur BBFahrschule: Adresse, Telefon, E-Mail und Öffnungszeiten. Jetzt unverbindlich beraten lassen.',
+    metaDesc: 'Kontakt zur B&B Fahrschule: Adresse, Telefon, E-Mail und Öffnungszeiten. Jetzt unverbindlich beraten lassen.',
     title: 'Kontakt',
     lead: 'Ruf uns an, schreib uns oder komm einfach vorbei. Die Erstberatung ist kostenlos und unverbindlich.',
     addressTitle: 'Adresse',
@@ -361,7 +348,7 @@ window.BBi18n.register('de', {
     directions: 'Route planen',
     formTitle: 'Schreib uns',
     formLead: 'Fülle einfach das Formular aus — wir melden uns in der Regel innerhalb eines Werktages zurück.',
-    mapTitle: 'Standort der BBFahrschule',
+    mapTitle: 'Standort der B&B Fahrschule',
     mapConsent: 'Beim Laden der Karte werden Daten an den Kartenanbieter übertragen, unter anderem deine IP-Adresse. Erst nach deinem Klick wird die Karte geladen.',
     mapLoad: 'Karte laden',
     mapNote: 'Mehr dazu in unserer Datenschutzerklärung.'
@@ -420,7 +407,7 @@ window.BBi18n.register('de', {
 
     impressum: {
       metaTitle: 'Impressum',
-      metaDesc: 'Impressum der BBFahrschule gemäß § 5 DDG mit Anbieterkennzeichnung, Aufsichtsbehörde und Berufsangaben.',
+      metaDesc: 'Impressum der B&B Fahrschule gemäß § 5 DDG mit Anbieterkennzeichnung, Aufsichtsbehörde und Berufsangaben.',
       title: 'Impressum',
       lead: 'Angaben gemäß § 5 Digitale-Dienste-Gesetz (DDG) und § 18 Absatz 2 Medienstaatsvertrag (MStV).',
       sections: [
@@ -484,14 +471,14 @@ window.BBi18n.register('de', {
 
         { h: 'Bildnachweise', html:
           '<p>Logo und Wort-Bild-Marke: {business.legalName}</p>' +
-          '<p>[PLATZHALTER] Fahrzeugabbildung (VW T-Roc R-Line): Der Rechteinhaber dieser Aufnahme ist hier zwingend zu benennen, oder die Abbildung ist vor dem Livegang durch ein eigenes Foto des Schulfahrzeugs bzw. durch lizenziertes Bildmaterial zu ersetzen.</p>' +
+          '<p>[PLATZHALTER] Fahrzeugabbildung (VW T-Roc): Der Rechteinhaber dieser Aufnahme ist hier zwingend zu benennen, oder die Abbildung ist vor dem Livegang durch ein eigenes Foto des Schulfahrzeugs bzw. durch lizenziertes Bildmaterial zu ersetzen.</p>' +
           '<p>Sämtliche Icons dieser Website wurden als eigene SVG-Grafiken erstellt.</p>' }
       ]
     },
 
     datenschutz: {
       metaTitle: 'Datenschutzerklärung',
-      metaDesc: 'Datenschutzerklärung der BBFahrschule nach DSGVO: Verarbeitung, Rechtsgrundlagen, Speicherdauer und Betroffenenrechte.',
+      metaDesc: 'Datenschutzerklärung der B&B Fahrschule nach DSGVO: Verarbeitung, Rechtsgrundlagen, Speicherdauer und Betroffenenrechte.',
       title: 'Datenschutzerklärung',
       lead: 'Der Schutz Ihrer personenbezogenen Daten ist uns wichtig. Nachfolgend informieren wir Sie gemäß Artikel 13 und 14 der Datenschutz-Grundverordnung (DSGVO) darüber, welche Daten wir verarbeiten und welche Rechte Ihnen zustehen.',
       sections: [
@@ -614,9 +601,9 @@ window.BBi18n.register('de', {
 
     agb: {
       metaTitle: 'Allgemeine Geschäftsbedingungen',
-      metaDesc: 'Allgemeine Geschäftsbedingungen der BBFahrschule für den Ausbildungsvertrag: Leistungen, Entgelte, Absagen und Kündigung.',
+      metaDesc: 'Allgemeine Geschäftsbedingungen der B&B Fahrschule für den Ausbildungsvertrag: Leistungen, Entgelte, Absagen und Kündigung.',
       title: 'Allgemeine Geschäftsbedingungen',
-      lead: 'Diese Bedingungen gelten für den Ausbildungsvertrag zwischen der BBFahrschule und ihren Fahrschülerinnen und Fahrschülern.',
+      lead: 'Diese Bedingungen gelten für den Ausbildungsvertrag zwischen der B&B Fahrschule und ihren Fahrschülerinnen und Fahrschülern.',
       sections: [
         { h: 'Geltungsbereich', html:
           '<p>Diese Allgemeinen Geschäftsbedingungen gelten für alle Verträge über die Ausbildung zum Erwerb einer Fahrerlaubnis sowie über sonstige Leistungen zwischen {business.legalName} (nachfolgend „Fahrschule") und der Fahrschülerin beziehungsweise dem Fahrschüler (nachfolgend „Fahrschüler").</p>' +
@@ -696,7 +683,7 @@ window.BBi18n.register('de', {
 
     widerruf: {
       metaTitle: 'Widerrufsbelehrung',
-      metaDesc: 'Widerrufsbelehrung und Muster-Widerrufsformular der BBFahrschule für außerhalb der Geschäftsräume geschlossene Verträge.',
+      metaDesc: 'Widerrufsbelehrung und Muster-Widerrufsformular der B&B Fahrschule für außerhalb der Geschäftsräume geschlossene Verträge.',
       title: 'Widerrufsbelehrung',
       lead: 'Diese Belehrung gilt für Verträge, die außerhalb unserer Geschäftsräume oder ausschließlich über Fernkommunikationsmittel wie Telefon, E-Mail oder unsere Website geschlossen wurden.',
       sections: [

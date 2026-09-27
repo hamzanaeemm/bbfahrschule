@@ -1,4 +1,4 @@
-/* BBFahrschule — English. The German version of all legal texts is the binding one. */
+/* B&B Fahrschule — English. The German version of all legal texts is the binding one. */
 window.BBi18n.register('en', {
 
   brand: { tagline: 'Your driving school', claim: 'Safely to your goal. With a licence.' },
@@ -23,24 +23,24 @@ window.BBi18n.register('en', {
            theory:'Theory lessons', today:'Today' },
 
   a11y: { langSwitch:'Choose language', toTop:'Back to top', skip:'Skip to content',
-          logo:'BBFahrschule logo', car:'Training vehicle VW T-Roc R-Line' },
+          logo:'B&B Fahrschule logo', car:'Training vehicle VW T-Roc' },
 
   dev: { placeholders:'placeholders in assets/js/config.js still need to be replaced before going live.',
          hide:'Hide' },
 
   home: {
     metaTitle: 'Get your driving licence',
-    metaDesc: 'BBFahrschule — a modern driving school with experienced instructors. Categories B, B197, A, AM and more. Calculate your cost and enrol today.',
+    metaDesc: 'B&B Fahrschule — a modern driving school with experienced instructors. Categories B, B197, B78, BF17 and more. Calculate your cost and enrol today.',
     heroEyebrow: 'Driving school in {city}',
-    heroTitle: 'Your licence.<br>No <em>detours</em>.',
+    heroTitle: 'Get your licence <em>now</em>.',
     heroLead: 'Personal support, modern vehicles and flexible scheduling. With us you learn to drive without the stress — from your first theory evening to passing the test.',
     trust: { students:'Learners', pass:'Pass rate', years:'Years of experience', rating:'Rating' },
-    heroPlate: 'Training in a VW T-Roc R-Line — automatic & manual',
+    heroPlate: 'Training in a VW T-Roc — automatic & manual',
 
     barItems: ['Free first consultation', 'Learn theory online too',
                'Pick-up at your preferred location', 'Tuition in four languages'],
 
-    uspEyebrow: 'Why BBFahrschule',
+    uspEyebrow: 'Why B&B Fahrschule',
     uspTitle: 'A driving school that fits around you',
     uspLead: 'We know that school, training or work leave little room. That is why everything here is built so you reach your licence quickly and without stress.',
     usp: [
@@ -54,7 +54,7 @@ window.BBi18n.register('en', {
 
     classesEyebrow: 'Licence categories',
     classesTitle: 'Which licence do you need?',
-    classesLead: 'Car, scooter, motorbike or trailer — we train for every common category and advise you on which one really suits you.',
+    classesLead: 'Car or trailer, automatic or manual — we train for every common car category and advise you on which one really suits you.',
 
     stepsEyebrow: 'How it works',
     stepsTitle: 'Five steps to your licence',
@@ -75,7 +75,7 @@ window.BBi18n.register('en', {
                   'Instantly visible, no email needed'],
 
     fleetEyebrow: 'Our vehicles',
-    fleetTitle: 'Learning in a VW T-Roc R-Line',
+    fleetTitle: 'Learning in a VW T-Roc',
     fleetLead: 'Our training car is easy to see out of, safe and pleasant to drive — ideal for your first lessons and strong enough for motorway and country roads.',
     fleetList: ['Reversing camera and parking sensors', 'Distance and lane-keeping assist',
                 'Climate control and height-adjustable seats', 'Automatic and manual versions available',
@@ -86,7 +86,7 @@ window.BBi18n.register('en', {
     reviews: [
       { n:'Lena M.', r:'Category B · Passed', q:'I was genuinely nervous about driving. My instructor took that fear away completely — passed on the first attempt. Thank you!' },
       { n:'Yusuf K.', r:'Category B197 · Passed', q:'The scheduling was really flexible, I could fit lessons around work. Everything was explained calmly, in Turkish too.' },
-      { n:'Sarah B.', r:'Category A2 · Passed', q:'Very well organised. The theory lessons were never boring and you could tell the instructors genuinely enjoy the job.' }
+      { n:'Sarah B.', r:'Category B78 · Passed', q:'Very well organised. The theory lessons were never boring and you could tell the instructors genuinely enjoy the job.' }
     ],
 
     faqEyebrow: 'Frequently asked',
@@ -114,7 +114,7 @@ window.BBi18n.register('en', {
     ctaLead: 'Get in touch with no obligation. We advise you free of charge, answer every question, and you decide in your own time.',
 
     seoIntroTitle: 'Driving school in {city} — personal, modern and fair',
-    seoIntro: 'BBFahrschule guides new drivers in {city} and the surrounding area on their way to a driving licence. We rely on small theory groups, dedicated instructors and a pace of training that suits you. Whether it is category B for a car, B197 with automatic transmission, a motorbike from category A1 or adding a trailer entitlement — you get an honest assessment of how many lessons you will need and a transparent breakdown of every cost. You are welcome to drop in for a consultation with no obligation.'
+    seoIntro: 'B&B Fahrschule guides new drivers in {city} and the surrounding area on their way to a driving licence. We rely on small theory groups, dedicated instructors and a pace of training that suits you. Whether it is category B for a car, B197 with automatic transmission, B78 automatic only or adding a trailer entitlement — you get an honest assessment of how many lessons you will need and a transparent breakdown of every cost. You are welcome to drop in for a consultation with no obligation.'
   },
 
   class: {
@@ -124,6 +124,9 @@ window.BBi18n.register('en', {
     B197: { short:'B197', name:'Category B197 — Automatic with manual entitlement',
             desc:'Train and take the test in an automatic car — and still receive a full licence that lets you drive manual vehicles.',
             drive:'Same as category B, without code 78' },
+    B78:  { short:'B78',  name:'Category B78 — Automatic only',
+            desc:'Train and take the test in an automatic car. Code 78 is entered on your licence, which means you may only drive vehicles with automatic transmission.',
+            drive:'Same as category B, automatic only (code 78)' },
     BF17: { short:'BF17', name:'Accompanied driving from 17',
             desc:'Start a year earlier: after passing the test you drive accompanied by a registered person until your 18th birthday.',
             drive:'Same as category B, accompanied' },
@@ -132,27 +135,12 @@ window.BBi18n.register('en', {
             drive:'Combination up to 4.25 t maximum mass' },
     BE:   { short:'BE',   name:'Category BE — Large trailer',
             desc:'For heavier trailers over 750 kg up to 3.5 t. Includes a practical test but no additional theory lessons.',
-            drive:'Car + trailer up to 3.5 t' },
-    A:    { short:'A',    name:'Category A — Unrestricted motorbike',
-            desc:'Motorbikes with no power limit. Direct entry from 24, or from 20 after holding category A2 for two years.',
-            drive:'Motorcycles with no power limit' },
-    A2:   { short:'A2',   name:'Category A2 — Motorbike up to 35 kW',
-            desc:'The entry point for anyone over 18: motorbikes up to 35 kW with a power-to-weight ratio of no more than 0.2 kW/kg.',
-            drive:'Motorcycles up to 35 kW' },
-    A1:   { short:'A1',   name:'Category A1 — Light motorcycle',
-            desc:'From 16: motorbikes up to 125 cc and 11 kW. An ideal first step towards A2 and A.',
-            drive:'Motorcycles up to 125 cc / 11 kW' },
-    AM:   { short:'AM',   name:'Category AM — Scooter & moped',
-            desc:'Two-wheeled light motor vehicles up to 45 km/h. The fastest route to your own mobility in town.',
-            drive:'Scooters and mopeds up to 45 km/h' },
-    MOFA: { short:'Moped',name:'Moped test certificate',
-            desc:'For single-track vehicles up to 25 km/h. Theory lessons, practical training and a theory exam — not a driving licence in the strict sense.',
-            drive:'Mopeds up to 25 km/h' }
+            drive:'Car + trailer up to 3.5 t' }
   },
 
   classes: {
     metaTitle: 'Licence categories',
-    metaDesc: 'All licence categories at BBFahrschule: B, B197, BF17, B96, BE, A, A2, A1, AM and moped — with minimum age, mandatory lessons and requirements.',
+    metaDesc: 'All licence categories at B&B Fahrschule: B, B197, B78, BF17, B96 and BE — with minimum age, mandatory lessons and requirements.',
     title: 'Licence categories at a glance',
     lead: 'Which category suits you? Here you will find the key facts for every licence: minimum age, required special drives, the amount of theory and what you are allowed to drive.',
     minAge: 'Minimum age', years: 'years',
@@ -181,7 +169,7 @@ window.BBi18n.register('en', {
 
   prices: {
     metaTitle: 'Prices & cost calculator',
-    metaDesc: 'Transparent prices at BBFahrschule: basic fee, driving lessons, special drives and exam fees. Calculate the individual cost of your licence now.',
+    metaDesc: 'Transparent prices at B&B Fahrschule: basic fee, driving lessons, special drives and exam fees. Calculate the individual cost of your licence now.',
     title: 'Prices & cost calculator',
     lead: 'With us you know in advance what to expect. Below you will find our current price list — and above it a calculator that estimates a realistic total for your licence.',
     tableSchool: 'Driving school services',
@@ -208,7 +196,6 @@ window.BBi18n.register('en', {
       passbild:'Biometric passport photo',
       antrag:'Application fee, licensing authority',
       b96:'Code B96 — complete package',
-      mofa:'Moped test certificate — complete package',
       simulator:'Driving simulator per unit',
       intensiv:'Surcharge for holiday or intensive course'
     }
@@ -250,7 +237,7 @@ window.BBi18n.register('en', {
       antrag:'Authority application fee',
       retrySchool:'Buffer: second presentation fee', retryFee:'Buffer: second exam fee'
     },
-    pkg: { B96:'Complete package, code B96', MOFA:'Complete package, moped certificate' },
+    pkg: { B96:'Complete package, code B96' },
     info: { age:'Minimum age {n}', theory:'{n} double theory lessons',
             special:'{n} mandatory special drives', noExam:'No practical exam' },
     disclaimer: 'This calculation is a non-binding estimate and not an offer in the legal sense. Nobody can seriously promise in advance how many driving lessons you will actually need — it depends on your learning pace, your previous experience and local traffic conditions. Third-party costs for TÜV/DEKRA, the authority and the doctor may change at any time. The price list displayed at the driving school under § 19 of the Driving Instructors Act always takes precedence.'
@@ -258,7 +245,7 @@ window.BBi18n.register('en', {
 
   process: {
     metaTitle: 'How the training works',
-    metaDesc: 'From enrolment to licence: how driver training at BBFahrschule works, step by step.',
+    metaDesc: 'From enrolment to licence: how driver training at B&B Fahrschule works, step by step.',
     title: 'How you get your licence',
     lead: 'The route to a driving licence is clearly regulated — and we walk it with you. Here you can see every step, what you need for it and roughly how long it takes.',
     stepsTitle: 'Your path in eight steps',
@@ -285,11 +272,11 @@ window.BBi18n.register('en', {
 
   about: {
     metaTitle: 'About us',
-    metaDesc: 'Meet BBFahrschule: experienced instructors, modern vehicles and training in four languages.',
-    title: 'About BBFahrschule',
+    metaDesc: 'Meet B&B Fahrschule: experienced instructors, modern vehicles and training in four languages.',
+    title: 'About B&B Fahrschule',
     lead: 'We are an owner-run driving school that takes time for its learners. No conveyor belt, no rotating instructors — just personal support from the first conversation to the day you pass.',
     storyTitle: 'Our story',
-    storyText: 'We started with one car and the belief that driving school can also be a relaxed experience. Since then we have guided hundreds of learners — young people on their way to their first taste of independence as well as adults catching up on a licence later in life. What has not changed: we take our time, we speak plainly, and we do not sell anyone lessons they do not need.',
+    storyText: 'We started with two cars and the belief that driving school can also be a relaxed experience. Since then we have guided many learners — young people on their way to their first taste of independence as well as adults catching up on a licence later in life. What has not changed: we take our time, we speak plainly, and we do not sell anyone lessons they do not need.',
     valuesTitle: 'What we stand for',
     values: [
       { t:'Patience', d:'Everyone learns at a different speed. There is no irritation and no pressure here — just as many explanations as you need.' },
@@ -312,14 +299,14 @@ window.BBi18n.register('en', {
 
   contact: {
     metaTitle: 'Contact',
-    metaDesc: 'Contact BBFahrschule: address, phone, email and opening hours. Get free, no-obligation advice today.',
+    metaDesc: 'Contact B&B Fahrschule: address, phone, email and opening hours. Get free, no-obligation advice today.',
     title: 'Contact',
     lead: 'Call us, write to us or simply drop by. The first consultation is free and without obligation.',
     addressTitle:'Address', phoneTitle:'Phone', mobileTitle:'Mobile & WhatsApp', mailTitle:'Email',
     hoursTitle:'Opening hours', theoryTitle:'Theory lessons', directions:'Get directions',
     formTitle:'Write to us',
     formLead:'Just fill in the form — we usually get back to you within one working day.',
-    mapTitle:'Location of BBFahrschule',
+    mapTitle:'Location of B&B Fahrschule',
     mapConsent:'Loading the map transfers data to the map provider, including your IP address. The map is only loaded after you click.',
     mapLoad:'Load map',
     mapNote:'More about this in our privacy policy.'
@@ -369,7 +356,7 @@ window.BBi18n.register('en', {
 
     impressum: {
       metaTitle: 'Legal notice',
-      metaDesc: 'Legal notice of BBFahrschule pursuant to § 5 DDG, including supervisory authority and professional details.',
+      metaDesc: 'Legal notice of B&B Fahrschule pursuant to § 5 DDG, including supervisory authority and professional details.',
       title: 'Legal notice',
       lead: 'Information pursuant to § 5 of the German Digital Services Act (DDG) and § 18 paragraph 2 of the Interstate Media Treaty (MStV).',
       sections: [
@@ -413,14 +400,14 @@ window.BBi18n.register('en', {
           '<p>Downloads and copies of this site are permitted for private, non-commercial use only. Insofar as the content on this site was not created by the operator, the copyrights of third parties are respected. Third-party content is identified as such in particular. Should you nevertheless become aware of a copyright infringement, please inform us accordingly. Upon becoming aware of infringements we will remove such content immediately.</p>' },
         { h:'Image credits', html:
           '<p>Logo and word/figurative mark: {business.legalName}</p>' +
-          '<p>[PLACEHOLDER] Vehicle image (VW T-Roc R-Line): the rights holder of this photograph must be named here, or the image must be replaced before going live with your own photo of the training vehicle or with properly licensed material.</p>' +
+          '<p>[PLACEHOLDER] Vehicle image (VW T-Roc): the rights holder of this photograph must be named here, or the image must be replaced before going live with your own photo of the training vehicle or with properly licensed material.</p>' +
           '<p>All icons on this website were created as our own SVG graphics.</p>' }
       ]
     },
 
     datenschutz: {
       metaTitle: 'Privacy policy',
-      metaDesc: 'Privacy policy of BBFahrschule under the GDPR: processing, legal bases, retention periods and data subject rights.',
+      metaDesc: 'Privacy policy of B&B Fahrschule under the GDPR: processing, legal bases, retention periods and data subject rights.',
       title: 'Privacy policy',
       lead: 'Protecting your personal data matters to us. Below we inform you in accordance with Articles 13 and 14 of the General Data Protection Regulation (GDPR) about which data we process and what rights you have.',
       sections: [
@@ -512,9 +499,9 @@ window.BBi18n.register('en', {
 
     agb: {
       metaTitle: 'Terms and conditions',
-      metaDesc: 'General terms and conditions of BBFahrschule for the training contract: services, fees, cancellations and termination.',
+      metaDesc: 'General terms and conditions of B&B Fahrschule for the training contract: services, fees, cancellations and termination.',
       title: 'General terms and conditions',
-      lead: 'These terms apply to the training contract between BBFahrschule and its learner drivers.',
+      lead: 'These terms apply to the training contract between B&B Fahrschule and its learner drivers.',
       sections: [
         { h:'Scope', html:
           '<p>These general terms and conditions apply to all contracts for training towards a driving licence and to other services between {business.legalName} (the &ldquo;driving school&rdquo;) and the learner driver (the &ldquo;learner&rdquo;).</p>' +
@@ -579,7 +566,7 @@ window.BBi18n.register('en', {
 
     widerruf: {
       metaTitle: 'Right of withdrawal',
-      metaDesc: 'Withdrawal policy and model withdrawal form of BBFahrschule for contracts concluded away from business premises.',
+      metaDesc: 'Withdrawal policy and model withdrawal form of B&B Fahrschule for contracts concluded away from business premises.',
       title: 'Withdrawal policy',
       lead: 'This policy applies to contracts concluded away from our business premises or exclusively by means of distance communication such as telephone, email or our website.',
       sections: [
