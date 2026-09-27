@@ -25,7 +25,7 @@ window.BB_CONFIG = {
     country:     'Deutschland',
     phone:       '015563133338',
     mobile:      '015222333390',
-    whatsapp:    '[PLACEHOLDER] +4915112345678',   // nur Ziffern, mit Ländercode
+    whatsapp:    '+4915222333390',   // nur Ziffern, mit Ländercode
     email:       '[PLACEHOLDER] info@bbfahrschule.de',
     website:     '[PLACEHOLDER] https://www.bbfahrschule.de',
 
