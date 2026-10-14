@@ -379,6 +379,17 @@ window.BBi18n.register('de', {
   },
 
   /* -------------------------------------------------------------- Footer */
+  offer: {
+    bar: 'Nur bis {date}: Sichere dir deinen {amount} Gutschein',
+    barCta: 'Mehr erfahren',
+    badge: 'Einmaliges Angebot',
+    voucher: 'Gutschein',
+    title: '{amount} geschenkt für deinen Führerschein',
+    lead: 'Sichere dir jetzt einen Gutschein über {amount}. Du kannst ihn bis zum {date} bei uns in der Fahrschule für alles einlösen, ob Grundbetrag, Fahrstunden oder Sonderfahrten. Sag uns einfach bei der Anmeldung Bescheid.',
+    terms: ['Für alle Leistungen der Fahrschule einlösbar', 'Einmalig pro Fahrschüler', 'Einlösbar bis {date}', 'Keine Barauszahlung'],
+    cta: 'Gutschein sichern'
+  },
+
   footer: {
     about: 'Deine Fahrschule für alle gängigen Führerscheinklassen, persönlich, modern und mit fairen Preisen.',
     navTitle: 'Fahrschule', legalTitle: 'Rechtliches', contactTitle: 'Kontakt',

@@ -329,6 +329,17 @@ window.BBi18n.register('en', {
     privacyNote:'Your data is used solely to process your enquiry and is not passed on to third parties. You may withdraw your consent at any time.'
   },
 
+  offer: {
+    bar: 'Until {date} only: claim your {amount} voucher',
+    barCta: 'Learn more',
+    badge: 'One-time offer',
+    voucher: 'Voucher',
+    title: '{amount} towards your driving licence',
+    lead: 'Get a voucher worth {amount} now. You can redeem it at our driving school for anything until {date}, whether the basic fee, driving lessons or special drives. Just mention it when you enrol.',
+    terms: ['Redeemable for all driving school services', 'Once per learner', 'Redeemable until {date}', 'No cash payout'],
+    cta: 'Claim voucher'
+  },
+
   footer: {
     about:'Your driving school for every common licence category, personal, modern and fairly priced.',
     navTitle:'Driving school', legalTitle:'Legal', contactTitle:'Contact',

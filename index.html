@@ -87,12 +87,6 @@
             <a class="btn btn--primary btn--lg" href="kontakt.html" data-i18n="cta.register"></a>
             <!-- PREISE DEAKTIVIERT: <a class="btn btn--on-ink btn--lg" href="preise.html#rechner" data-i18n="cta.calc"></a> -->
           </div>
-          <div class="hero__trust">
-            <div><b data-bb="stats.students"></b><span data-i18n="home.trust.students"></span></div>
-            <div><b data-bb="stats.passRate"></b><span data-i18n="home.trust.pass"></span></div>
-            <div><b data-bb="stats.years"></b><span data-i18n="home.trust.years"></span></div>
-            <div><b data-bb="stats.rating"></b><span data-i18n="home.trust.rating"></span></div>
-          </div>
         </div>
         <div class="hero__media">
           <picture><source srcset="assets/img/car.webp" type="image/webp"><img class="hero__car" src="assets/img/car.png" alt="" data-i18n-attr="alt:a11y.car" width="816" height="431" fetchpriority="high"></picture>
@@ -106,6 +100,26 @@
         <ul data-render="ticks" data-key="home.barItems" class="trustbar__list"></ul>
       </div>
     </div>
+
+    <!-- Gutschein-Aktion: Werte in assets/js/config.js (offer), Texte unter "offer" in den Sprachdateien.
+         Wird nach Ablauf automatisch ausgeblendet. -->
+    <section class="section section--tight" id="angebot" data-offer hidden>
+      <div class="wrap">
+        <div class="offer reveal">
+          <div class="offer__ticket" aria-hidden="true">
+            <span class="offer__amount" data-offer-amount></span>
+            <span class="offer__label" data-i18n="offer.voucher"></span>
+          </div>
+          <div class="offer__body">
+            <span class="offer__badge" data-i18n="offer.badge"></span>
+            <h2 data-offer-text="title"></h2>
+            <p data-offer-text="lead"></p>
+            <ul class="offer__terms" data-offer-terms></ul>
+            <a class="btn btn--dark btn--lg" href="kontakt.html" data-i18n="offer.cta"></a>
+          </div>
+        </div>
+      </div>
+    </section>
 
     <section class="section">
       <div class="wrap">
@@ -190,17 +204,8 @@
       </div>
     </section>
 
-    <section class="section--tight">
-      <div class="wrap">
-        <div class="statband reveal">
-          <div><b data-bb="stats.students"></b><span data-i18n="home.trust.students"></span></div>
-          <div><b data-bb="stats.passRate"></b><span data-i18n="home.trust.pass"></span></div>
-          <div><b data-bb="stats.years"></b><span data-i18n="home.trust.years"></span></div>
-          <div><b data-bb="stats.rating"></b><span data-i18n="home.trust.rating"></span></div>
-        </div>
-      </div>
-    </section>
 
+    <!-- BEWERTUNGEN DEAKTIVIERT (Kundenstimmen):
     <section class="section">
       <div class="wrap">
       <div class="sect-head sect-head--center reveal">
@@ -211,8 +216,9 @@
         <div class="grid g-3" data-render="reviews" data-key="home.reviews"></div>
       </div>
     </section>
+    -->
 
-    <section class="section section--paper">
+    <section class="section">
       <div class="wrap-narrow">
       <div class="sect-head sect-head--center reveal">
         <span class="eyebrow" data-i18n="home.faqEyebrow"></span>

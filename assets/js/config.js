@@ -65,6 +65,15 @@ window.BB_CONFIG = {
     youtube:   '',
   },
 
+  /* ---------------------------------------------------------- Gutschein-Aktion
+     Einmaliger Gutschein. Nach validUntil (einschließlich) blendet sich das
+     Angebot auf allen Seiten automatisch aus. enabled:false = sofort aus. */
+  offer: {
+    enabled:    true,
+    amount:     200,            // EUR
+    validUntil: '2026-12-31',   // JJJJ-MM-TT
+  },
+
   /* ------------------------------------------------------------- Kennzahlen */
   stats: {
     students:  '[PLACEHOLDER] 2.400+',
