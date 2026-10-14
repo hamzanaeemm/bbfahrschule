@@ -34,7 +34,7 @@ window.BBi18n.register('de', {
   /* ------------------------------------------------------------ Startseite */
   home: {
     metaTitle: 'Führerschein machen',
-    metaDesc: 'B&B Fahrschule: moderne Fahrschule mit erfahrenen Fahrlehrern. Führerschein Klasse B, B197, B78, BF17 und mehr. Jetzt Kosten berechnen und anmelden.',
+    metaDesc: 'B&B Fahrschule: moderne Fahrschule mit erfahrenen Fahrlehrern. Führerschein Klasse B, B197, B78, BF17 und mehr. Jetzt unverbindlich anmelden.',
     heroEyebrow: 'Fahrschule in {city}',
     heroTitle: 'Hol dir <em>jetzt</em> deinen Führerschein.',
     heroLead: 'Persönliche Betreuung, moderne Fahrzeuge und flexible Termine. Bei uns lernst du entspannt Auto fahren, vom ersten Theorieabend bis zur bestandenen Prüfung.',
@@ -52,7 +52,7 @@ window.BBi18n.register('de', {
       { t:'Moderne Fahrzeuge', d:'Gepflegte, sichere Schulfahrzeuge mit aktueller Assistenztechnik. Automatik und Schaltgetriebe stehen bereit.' },
       { t:'Flexible Termine', d:'Fahrstunden am Morgen, am Abend oder samstags. Abholung an Schule, Uni oder Arbeitsplatz ist meist möglich.' },
       { t:'Theorie online lernen', d:'Mit App und Online-Zugang lernst du wann und wo du willst, im Bus, in der Pause oder abends auf dem Sofa.' },
-      { t:'Faire, klare Preise', d:'Keine versteckten Kosten. Du siehst vorab, was auf dich zukommt, mit unserem Kostenrechner sogar auf den Euro genau geschätzt.' },
+      { t:'Faire, klare Preise', d:'Keine versteckten Kosten. Wir besprechen alle Kosten offen mit dir, bevor du dich anmeldest.' },
       { t:'Ausbildung in 4 Sprachen', d:'Deutsch, Englisch, Türkisch und Arabisch. Sprich uns an, wir finden immer einen Weg, dich zu begleiten.' }
     ],
 

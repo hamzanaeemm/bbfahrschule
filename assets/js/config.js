@@ -46,12 +46,12 @@ window.BB_CONFIG = {
   /* ----------------------------------------------------------- Öffnungszeiten
      Büro-/Anmeldezeiten. Schlüssel = Wochentag, Wert = Zeitstring oder null. */
   hours: {
-    mon: '[PLACEHOLDER] 15:00 – 19:00',
-    tue: '[PLACEHOLDER] 15:00 – 19:00',
-    wed: '[PLACEHOLDER] 15:00 – 19:00',
-    thu: '[PLACEHOLDER] 15:00 – 19:00',
-    fri: '[PLACEHOLDER] 15:00 – 18:00',
-    sat: '[PLACEHOLDER] 10:00 – 13:00',
+    mon: '11:00 – 13:00',
+    tue: '11:00 – 13:00',
+    wed: '11:00 – 13:00',
+    thu: '11:00 – 13:00',
+    fri: '11:00 – 13:00',
+    sat: null,
     sun: null,                                  // null = geschlossen
   },
   theoryTimes: '[PLACEHOLDER] Mo. – Do., 18:30 – 20:00 Uhr',

@@ -30,7 +30,7 @@ window.BBi18n.register('tr', {
 
   home: {
     metaTitle: 'Ehliyetini al',
-    metaDesc: 'B&B Fahrschule: deneyimli eğitmenlerle modern sürücü kursu. B, B197, B78, BF17 ve daha fazla sınıf. Maliyetini hesapla ve hemen kaydol.',
+    metaDesc: 'B&B Fahrschule: deneyimli eğitmenlerle modern sürücü kursu. B, B197, B78, BF17 ve daha fazla sınıf. Hemen yükümlülüksüz kaydol.',
     heroEyebrow: '{city} sürücü kursu',
     heroTitle: 'Ehliyetini <em>şimdi</em> al.',
     heroLead: 'Kişisel ilgi, modern araçlar ve esnek randevular. Bizde araba kullanmayı rahat bir şekilde öğrenirsin, ilk teorik dersten sınavı geçtiğin güne kadar.',
@@ -48,7 +48,7 @@ window.BBi18n.register('tr', {
       { t:'Modern araçlar', d:'Bakımlı, güvenli ve güncel sürüş destek sistemlerine sahip eğitim araçları. Otomatik ve manuel seçenek mevcut.' },
       { t:'Esnek randevular', d:'Sabah, akşam veya cumartesi dersleri. Okuldan, üniversiteden ya da iş yerinden alınma çoğu zaman mümkün.' },
       { t:'Teoriyi online öğren', d:'Uygulama ve online erişimle istediğin zaman, istediğin yerde çalış, otobüste, molada ya da akşam evde.' },
-      { t:'Adil ve net fiyatlar', d:'Gizli masraf yok. Seni nelerin beklediğini önceden görürsün, hesaplayıcımızla neredeyse euro bazında.' },
+      { t:'Adil ve net fiyatlar', d:'Gizli masraf yok. Kaydolmadan önce tüm masrafları seninle açıkça konuşuruz.' },
       { t:'Dört dilde eğitim', d:'Almanca, İngilizce, Türkçe ve Arapça. Bize söyle, sana eşlik etmenin bir yolunu mutlaka buluruz.' }
     ],
 

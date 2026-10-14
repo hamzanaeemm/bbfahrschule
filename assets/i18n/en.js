@@ -30,7 +30,7 @@ window.BBi18n.register('en', {
 
   home: {
     metaTitle: 'Get your driving licence',
-    metaDesc: 'B&B Fahrschule: a modern driving school with experienced instructors. Categories B, B197, B78, BF17 and more. Calculate your cost and enrol today.',
+    metaDesc: 'B&B Fahrschule: a modern driving school with experienced instructors. Categories B, B197, B78, BF17 and more. Enrol today with no obligation.',
     heroEyebrow: 'Driving school in {city}',
     heroTitle: 'Get your licence <em>now</em>.',
     heroLead: 'Personal support, modern vehicles and flexible scheduling. With us you learn to drive without the stress, from your first theory evening to passing the test.',
@@ -48,7 +48,7 @@ window.BBi18n.register('en', {
       { t:'Modern vehicles', d:'Well-maintained, safe training cars with up-to-date driver assistance. Automatic and manual are both available.' },
       { t:'Flexible appointments', d:'Lessons in the morning, in the evening or on Saturdays. Pick-up at school, university or your workplace is usually possible.' },
       { t:'Learn theory online', d:'With our app and online access you learn whenever and wherever you like, on the bus, during a break or on the sofa.' },
-      { t:'Fair, clear prices', d:'No hidden costs. You see in advance what to expect. Our calculator even estimates it down to the euro.' },
+      { t:'Fair, clear prices', d:'No hidden costs. We go through all costs openly with you before you enrol.' },
       { t:'Tuition in four languages', d:'German, English, Turkish and Arabic. Just talk to us. We will always find a way to support you.' }
     ],
 

@@ -349,7 +349,8 @@
     }
 
     function card(c, detailed) {
-      var est = estimateFor(c);
+      // PREISE DEAKTIVIERT: Preisschätzung und Rechner-Button auf den Klassenkarten
+      // var est = estimateFor(c);
       return '<article class="klass' + (c.popular ? ' klass--featured' : '') + '">' +
         (c.popular ? '<span class="klass__tag">' + T.t('classes.popular') + '</span>' : '') +
         '<div class="klass__key">' + T.t('class.' + c.id + '.short') + '</div>' +
@@ -360,11 +361,11 @@
           ? '<p class="small muted" style="margin-block-end:1rem"><strong>' + T.t('classes.youMayDrive') +
             ':</strong> ' + T.t('class.' + c.id + '.drive') + '</p>'
           : '') +
-        '<div class="klass__foot"><p class="klass__price">' +
-          T.t(c.fixedPackage ? 'classes.packagePrice' : 'classes.estimateAvg', { n: c.avgLessons }) +
-          '<b>' + T.money(est) + '</b></p>' +
-        '<a class="btn btn--ghost btn--block" style="margin-block-start:1rem" href="preise.html?klasse=' +
-          c.id + '#rechner">' + T.t('classes.calcFor') + '</a></div>' +
+        // '<div class="klass__foot"><p class="klass__price">' +
+        //   T.t(c.fixedPackage ? 'classes.packagePrice' : 'classes.estimateAvg', { n: c.avgLessons }) +
+        //   '<b>' + T.money(est) + '</b></p>' +
+        // '<a class="btn btn--ghost btn--block" style="margin-block-start:1rem" href="preise.html?klasse=' +
+        //   c.id + '#rechner">' + T.t('classes.calcFor') + '</a></div>' +
       '</article>';
     }
 
