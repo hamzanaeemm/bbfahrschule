@@ -607,6 +607,53 @@
     });
   }
 
+  /* ------------------------------------------------------ Gutschein-Aktion
+     Hinweisleiste unter dem Header auf allen Seiten + Angebotsblock auf der
+     Startseite. Nach CFG.offer.validUntil blendet sich beides selbst aus. */
+  function initOffer() {
+    var o = CFG.offer;
+    if (!o || !o.enabled || !o.validUntil) return;
+    var p = String(o.validUntil).split('-');
+    var end = new Date(+p[0], +p[1] - 1, +p[2], 23, 59, 59);
+    if (isNaN(end) || new Date() > end) return;
+
+    var GIFT = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="8" width="18" height="4" rx="1"/><path d="M12 8v13M19 12v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-7"/><path d="M7.5 8a2.5 2.5 0 0 1 0-5C10 3 12 8 12 8s2-5 4.5-5a2.5 2.5 0 0 1 0 5"/></svg>';
+    var section = $('[data-offer]');
+    var header  = $('.header');
+    var bar = null;
+    if (header) {
+      bar = d.createElement('a');
+      bar.className = 'offerbar';
+      bar.href = section ? '#angebot' : 'index.html#angebot';
+      header.parentNode.insertBefore(bar, header.nextSibling);
+    }
+    if (section) section.hidden = false;
+
+    function params() {
+      var loc = T.lang === 'de' ? 'de-DE' : T.lang === 'tr' ? 'tr-TR'
+              : T.lang === 'ar' ? 'ar-u-nu-latn' : 'en-GB';
+      var date;
+      try { date = new Intl.DateTimeFormat(loc, { day:'2-digit', month:'2-digit', year:'numeric' }).format(end); }
+      catch (e) { date = o.validUntil; }
+      return { amount: T.money(o.amount), date: date };
+    }
+    function render() {
+      var pr = params();
+      if (bar) bar.innerHTML = GIFT + '<span>' + T.t('offer.bar', pr) + '</span>' +
+                               '<b>' + T.t('offer.barCta') + ' &rarr;</b>';
+      if (!section) return;
+      $('[data-offer-amount]', section).textContent = pr.amount;
+      $$('[data-offer-text]', section).forEach(function (el) {
+        el.textContent = T.t('offer.' + el.dataset.offerText, pr);
+      });
+      $('[data-offer-terms]', section).innerHTML = T.list('offer.terms').map(function (t) {
+        return '<li>' + ICON.check + '<span>' + T.interp(t, pr) + '</span></li>';
+      }).join('');
+    }
+    render();
+    d.addEventListener('bb:langchange', render);
+  }
+
   /* ------------------------------------------------------------------ Boot */
   function boot() {
     T.apply();
@@ -614,7 +661,7 @@
     initLang(); initNav(); initFaq(); initReveal(); initToTop();
     initMap(); initCookie(); initForm(); initLegal();
     initClassCards(); initPriceTables(); initRenderers(); initSchema();
-    initMisc(); initDevWarning();
+    initMisc(); initDevWarning(); initOffer();
     d.addEventListener('bb:langchange', function () { renderHours(); });
     d.documentElement.dataset.ready = 'true';
   }

@@ -297,6 +297,38 @@ body[data-navopen="true"]{overflow:hidden}
 .trustbar li{display:flex; align-items:center; gap:.5rem; font-size:var(--fs-sm); font-weight:600}
 .trustbar svg{inline-size:17px; block-size:17px; color:var(--accent); flex:none}
 
+/* Gutschein-Aktion: Hinweisleiste + Angebotsblock (Startseite) */
+.offerbar{display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:.35rem .75rem;
+  padding:.6rem 1rem; background:var(--accent); color:var(--on-accent);
+  font-size:var(--fs-sm); font-weight:650; text-align:center; line-height:1.35}
+.offerbar svg{inline-size:1.15rem; block-size:1.15rem; flex:none}
+.offerbar b{font-weight:800; text-decoration:underline; text-underline-offset:3px; white-space:nowrap}
+.offerbar:hover b{text-decoration-thickness:2px}
+
+.offer{display:grid; border-radius:var(--r-xl); overflow:hidden; box-shadow:var(--sh-accent);
+  background:linear-gradient(135deg,var(--accent) 0%,#FFD166 100%); color:var(--on-accent)}
+@media (min-width:760px){ .offer{grid-template-columns:minmax(220px,.42fr) 1fr} }
+.offer__ticket{position:relative; display:flex; flex-direction:column; align-items:center; justify-content:center;
+  gap:.35rem; padding:2rem 1.5rem; background:var(--ink-900); color:var(--accent); text-align:center}
+.offer__ticket::after{content:""; position:absolute; inset-inline:0; inset-block-end:-1px;
+  border-block-end:3px dashed var(--accent)}
+@media (min-width:760px){
+  .offer__ticket::after{inset-block:0; inset-inline:auto -1px auto; border-block-end:0;
+    border-inline-end:3px dashed var(--accent)}
+}
+.offer__amount{font-size:clamp(3rem,2.2rem + 3.5vw,4.75rem); font-weight:900; line-height:1; letter-spacing:-.03em}
+.offer__label{font-size:var(--fs-sm); font-weight:750; letter-spacing:.14em; text-transform:uppercase; color:#fff}
+.offer__body{padding:clamp(1.5rem,1.1rem + 2vw,2.5rem)}
+.offer__badge{display:inline-block; margin-block-end:.9rem; padding:.3rem .8rem; border-radius:var(--r-pill);
+  background:var(--ink-900); color:#fff; font-size:var(--fs-xs); font-weight:750; letter-spacing:.08em; text-transform:uppercase}
+.offer h2{color:var(--ink-900); margin-block-end:.6rem}
+.offer p{color:var(--ink-800); max-width:60ch; margin-block-end:1.1rem}
+.offer__terms{display:grid; gap:.45rem 1.5rem; margin-block-end:1.5rem;
+  grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr))}
+.offer__terms li{display:flex; gap:.55rem; align-items:flex-start; font-size:var(--fs-sm); font-weight:650; color:var(--ink-900)}
+.offer__terms svg{inline-size:1.1rem; block-size:1.1rem; flex:none; margin-block-start:.15rem}
+[dir="rtl"] .offer__label,[dir="rtl"] .offer__badge{letter-spacing:0}
+
 /* ---------------------------------------------------------- 8 · SEKTIONEN */
 /* Klassen-Karten */
 .klass{
@@ -678,7 +710,7 @@ body[data-navopen="true"]{overflow:hidden}
 
 /* ------------------------------------------------------------- 14 · PRINT */
 @media print{
-  .header,.mobilenav,.footer,.totop,.wa,.cookie,.devwarn,.hero__cta,.lang,.burger{display:none!important}
+  .header,.offerbar,.mobilenav,.footer,.totop,.wa,.cookie,.devwarn,.hero__cta,.lang,.burger{display:none!important}
   body{color:#000; background:#fff}
   .result{position:static; background:#fff; color:#000; border:1px solid #999}
   .result__sum,.rrow b,.rrow--total b,.result__rows h4{color:#000}

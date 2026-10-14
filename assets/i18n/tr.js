@@ -329,6 +329,17 @@ window.BBi18n.register('tr', {
     privacyNote:'Verilerin yalnızca talebinin işlenmesi için kullanılır ve üçüncü kişilere aktarılmaz. Onayını istediğin zaman geri alabilirsin.'
   },
 
+  offer: {
+    bar: 'Sadece {date} tarihine kadar: {amount} değerindeki hediye çekini al',
+    barCta: 'Detaylar',
+    badge: 'Tek seferlik fırsat',
+    voucher: 'Hediye çeki',
+    title: 'Ehliyetin için {amount} hediye',
+    lead: 'Şimdi {amount} değerinde bir hediye çeki al. Çeki {date} tarihine kadar sürücü kursumuzda her şey için kullanabilirsin: temel ücret, direksiyon dersleri veya özel sürüşler. Kayıt olurken bize söylemen yeterli.',
+    terms: ['Kursun tüm hizmetlerinde geçerli', 'Kişi başı bir kez', '{date} tarihine kadar kullanılabilir', 'Nakde çevrilemez'],
+    cta: 'Çeki al'
+  },
+
   footer: {
     about:'Tüm yaygın ehliyet sınıfları için sürücü kursun, kişisel, modern ve adil fiyatlı.',
     navTitle:'Sürücü kursu', legalTitle:'Hukuki', contactTitle:'İletişim',
