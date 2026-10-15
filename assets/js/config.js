@@ -13,8 +13,8 @@ window.BB_CONFIG = {
   /* ---------------------------------------------------------------- Firma */
   business: {
     name:        'B&B Fahrschule',
-    legalName:   '[PLACEHOLDER] B&B Fahrschule, Inhaber Max Mustermann e. K.',
-    owner:       '[PLACEHOLDER] Max Mustermann',
+    legalName:   'B&B Fahrschule, Inhaber Brand Cobanoglu',
+    owner:       'Brand Cobanoglu',
     tagline_key: 'brand.tagline',
     founded:     '[PLACEHOLDER] 2015',
     // Einziger Standort: Koblenz. Theorieunterricht und Fahrstunden finden
@@ -26,7 +26,7 @@ window.BB_CONFIG = {
     phone:       '015563133338',
     mobile:      '015222333390',
     whatsapp:    '+4915222333390',   // nur Ziffern, mit Ländercode
-    email:       '[PLACEHOLDER] info@bbfahrschule.de',
+    email:       'Bb.fahrschule.ko@gmail.com',
     website:     '[PLACEHOLDER] https://www.bbfahrschule.de',
 
     // Rechtliche Angaben (Impressum)

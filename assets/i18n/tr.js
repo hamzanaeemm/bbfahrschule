@@ -334,9 +334,9 @@ window.BBi18n.register('tr', {
     barCta: 'Detaylar',
     badge: 'Tek seferlik fırsat',
     voucher: 'Hediye çeki',
-    title: 'Ehliyetin için {amount} hediye',
-    lead: 'Şimdi {amount} değerinde bir hediye çeki al. Çeki {date} tarihine kadar sürücü kursumuzda her şey için kullanabilirsin: temel ücret, direksiyon dersleri veya özel sürüşler. Kayıt olurken bize söylemen yeterli.',
-    terms: ['Kursun tüm hizmetlerinde geçerli', 'Kişi başı bir kez', '{date} tarihine kadar kullanılabilir', 'Nakde çevrilemez'],
+    title: '{amount} hediye çeki',
+    lead: 'Her kursiyer için bir kez, {date} tarihine kadar sürücü kursundaki tüm masraflar için kullanılabilir (nakde çevrilemez).',
+    terms: [],
     cta: 'Çeki al'
   },
 

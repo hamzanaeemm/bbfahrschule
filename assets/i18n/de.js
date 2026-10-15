@@ -384,9 +384,9 @@ window.BBi18n.register('de', {
     barCta: 'Mehr erfahren',
     badge: 'Einmaliges Angebot',
     voucher: 'Gutschein',
-    title: '{amount} geschenkt für deinen Führerschein',
-    lead: 'Sichere dir jetzt einen Gutschein über {amount}. Du kannst ihn bis zum {date} bei uns in der Fahrschule für alles einlösen, ob Grundbetrag, Fahrstunden oder Sonderfahrten. Sag uns einfach bei der Anmeldung Bescheid.',
-    terms: ['Für alle Leistungen der Fahrschule einlösbar', 'Einmalig pro Fahrschüler', 'Einlösbar bis {date}', 'Keine Barauszahlung'],
+    title: '{amount} Gutschein',
+    lead: 'Einmalig für jeden Fahrschüler, bis zum {date} einsetzbar für alle anfallenden Kosten in der Fahrschule (keine Barauszahlung).',
+    terms: [],
     cta: 'Gutschein sichern'
   },
 
