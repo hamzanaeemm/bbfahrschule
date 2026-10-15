@@ -334,9 +334,9 @@ window.BBi18n.register('en', {
     barCta: 'Learn more',
     badge: 'One-time offer',
     voucher: 'Voucher',
-    title: '{amount} towards your driving licence',
-    lead: 'Get a voucher worth {amount} now. You can redeem it at our driving school for anything until {date}, whether the basic fee, driving lessons or special drives. Just mention it when you enrol.',
-    terms: ['Redeemable for all driving school services', 'Once per learner', 'Redeemable until {date}', 'No cash payout'],
+    title: '{amount} voucher',
+    lead: 'Once per learner, redeemable until {date} for all costs incurred at the driving school (no cash payout).',
+    terms: [],
     cta: 'Claim voucher'
   },
 
