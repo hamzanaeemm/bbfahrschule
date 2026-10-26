@@ -96,8 +96,9 @@ window.BB_CONFIG = {
   map: {
     enabled: true,
     // Google-Maps-Embed-URL (Menü „Teilen“ → „Karte einbetten“) oder OSM-Embed
-    embedUrl: '[PLACEHOLDER] https://www.openstreetmap.org/export/embed.html?bbox=7.56%2C50.34%2C7.63%2C50.38&layer=mapnik',
-    directionsUrl: 'https://www.google.com/maps/dir/?api=1&destination=L%C3%B6hrstra%C3%9Fe+101+56068+Koblenz',
+    // Standort laut Google Maps: „BB Fahrschule Koblenz“, Löhrstraße 101 (50.35533, 7.5907796)
+    embedUrl: 'https://maps.google.com/maps?q=50.35533,7.5907796&z=17&hl=de&output=embed',
+    directionsUrl: 'https://www.google.com/maps/dir/?api=1&destination=50.35533,7.5907796',
   },
 
   /* ------------------------------------------------------------- Analytics
