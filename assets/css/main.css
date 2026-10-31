@@ -213,6 +213,9 @@ p{text-wrap:pretty}
   font-size:1.1rem; font-weight:650; color:var(--ink-900);
 }
 .mobilenav a[aria-current="page"]{color:var(--accent-700)}
+.mobilenav a svg{inline-size:18px; block-size:18px; flex:none; color:var(--ink-400); transform:rotate(-90deg)}
+[dir="rtl"] .mobilenav a svg{transform:rotate(90deg)}
+.mobilenav a[aria-current="page"] svg{color:currentColor}
 .mobilenav .btn{margin-block-start:1.5rem}
 .mobilenav__legal{margin-block-start:2rem; display:flex; flex-wrap:wrap; gap:1rem}
 .mobilenav__legal a{border:0; padding:0; font-size:var(--fs-sm); font-weight:600; color:var(--ink-500)}
